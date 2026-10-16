@@ -13,7 +13,7 @@
   ],
   "author": {
     "name": "AI Engineering from Scratch",
-    "github": "rohitg00"
+    "github": "code2careerai"
   },
   "youWillBuild": "Reusable browser component, SSE fixture server and replayable event trace",
   "prerequisiteProjects": [

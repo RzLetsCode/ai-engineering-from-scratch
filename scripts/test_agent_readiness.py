@@ -235,7 +235,7 @@ def main() -> None:
     assert home_graph["Course"]["@id"] == COURSE_ID
     maintainer = home_graph["Person"]
     assert maintainer["@id"] == MAINTAINER_ID
-    assert maintainer["name"] == "Rohit Ghumare"
+    assert maintainer["name"] == "code2careerai"
     assert home_graph["WebSite"]["author"] == {"@id": MAINTAINER_ID}
     assert home_graph["Course"]["author"] == {"@id": MAINTAINER_ID}
     on_site_pages = "".join(
@@ -265,7 +265,7 @@ def main() -> None:
         "publisher",
         "provider",
         "instructor",
-        "rohitghumare.com",
+        "code2careerai.com",
     ):
         assert false_field not in identity_json
 

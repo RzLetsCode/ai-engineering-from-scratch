@@ -13,7 +13,7 @@
   "source": "core",
   "author": {
     "name": "AI Engineering from Scratch",
-    "github": "rohitg00"
+    "github": "code2careerai"
   },
   "youWillBuild": "audio.wav, captions.vtt, transcript.json and an HTML page with embedded playback and cue-seek buttons.",
   "usefulFor": [

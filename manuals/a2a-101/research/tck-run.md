@@ -16,7 +16,7 @@ Why test-runner and not the other two: the TCK sends generic text ("Hello from T
 
 ```bash
 cd research/repos/a2a-tck
-uv venv --python /Users/rohitghumare/.pyenv/versions/3.12.7/bin/python   # sandbox off, see above
+uv venv --python /Users/code2careerai/.pyenv/versions/3.12.7/bin/python   # sandbox off, see above
 uv pip install -e .
 
 python3 research/v2/tck-run/serve_kit.py 41251 > research/v2/tck-run/server.log 2>&1 &   # PID 33757

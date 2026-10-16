@@ -58,7 +58,7 @@ test('OpenAPI and MCP share typed contracts; descriptions, errors, identity and 
   const home = fs.readFileSync(path.join(__dirname,'../site/index.html'),'utf8');
   assert.match(home, /href="developer(?:\.html)?">For devs/);
   const graph = JSON.parse(home.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1]);
-  const website = graph['@graph'].find(item => item['@type'] === 'WebSite'); assert.match(website.sameAs,/github.com\/rohitg00/);
+  const website = graph['@graph'].find(item => item['@type'] === 'WebSite'); assert.match(website.sameAs,/github.com\/code2careerai/);
   assert.ok(!graph['@graph'].some(item => item['@type'] === 'Organization'));
   const llms = fs.readFileSync(path.join(__dirname,'../site/llms.txt'),'utf8'); assert.match(llms,/\/mcp/); assert.match(llms,/\/openapi.json/);
 });

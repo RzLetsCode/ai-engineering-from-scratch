@@ -26,7 +26,7 @@
   "youWillBuild": "Schema diff, invariant results and reversible-migration receipt",
   "author": {
     "name": "AI Engineering from Scratch",
-    "github": "rohitg00"
+    "github": "code2careerai"
   },
   "overviewFigure": "pj-database-migration-rehearsal-1",
   "figures": true,

@@ -44,7 +44,7 @@ function makeAssets() {
             next: { path: 'phases/01-math/02-calculus', title: 'Calculus' },
             learningPathIds: ['math', 'model-context-protocol'],
             fromTrackIds: ['claude-example'],
-            sourceUrl: 'https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/phases/01-math/01-vectors',
+            sourceUrl: 'https://github.com/code2careerai/ai-engineering-from-scratch/tree/main/phases/01-math/01-vectors',
             canonicalUrl: 'https://aiengineeringfromscratch.com/lesson?path=phases%2F01-math%2F01-vectors',
           },
           'phases/07-transformers/09-vectors': {
@@ -81,7 +81,7 @@ function makeAssets() {
             },
             learningPathIds: [],
             fromTrackIds: [],
-            sourceUrl: 'https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/certifications/claude/lessons/01-models',
+            sourceUrl: 'https://github.com/code2careerai/ai-engineering-from-scratch/tree/main/certifications/claude/lessons/01-models',
             canonicalUrl: 'https://aiengineeringfromscratch.com/lesson?path=certifications%2Fclaude%2Flessons%2F01-models',
           },
         },
@@ -142,7 +142,7 @@ function withSecondProgram(assets) {
     },
     learningPathIds: [],
     fromTrackIds: [],
-    sourceUrl: 'https://github.com/rohitg00/ai-engineering-from-scratch/tree/main/certifications/mcpa/lessons/01-discovery',
+    sourceUrl: 'https://github.com/code2careerai/ai-engineering-from-scratch/tree/main/certifications/mcpa/lessons/01-discovery',
     canonicalUrl: 'https://aiengineeringfromscratch.com/lesson?path=certifications%2Fmcpa%2Flessons%2F01-discovery',
   };
   assets.certification.manifest.tracks['mcpa-example'] = {
@@ -209,7 +209,7 @@ test('lesson route renders unique crawlable HTML with a path-only canonical', fu
   assert.match(response.body, /<h1>Vectors &amp; &lt;Matrices&gt; - Math Foundations<\/h1>/);
   assert.match(response.body, /"@type":"LearningResource"/);
   assert.match(response.body, /"@type":"BreadcrumbList"/);
-  assert.doesNotMatch(response.body, /"@type":"Person"|#person|rohitghumare\.com/);
+  assert.doesNotMatch(response.body, /"@type":"Person"|#person|code2careerai\.com/);
   assert.doesNotMatch(response.body, /<script>Vectors/);
   assert.match(response.body, /path=phases%2F01-math%2F02-calculus/);
 });
@@ -869,7 +869,7 @@ test('server and browser source links honor generated repository identity', func
   assert.match(buildMeta, /__AIFS_SOURCE/);
   assert.match(contentSource, /__AIFS_SOURCE/);
   assert.match(lessonTemplate, /SOURCE_OWNER/);
-  assert.doesNotMatch(lessonTemplate, /api\.github\.com\/repos\/rohitg00\/ai-engineering-from-scratch\/contents/);
+  assert.doesNotMatch(lessonTemplate, /api\.github\.com\/repos\/code2careerai\/ai-engineering-from-scratch\/contents/);
 });
 
 const HINDI = [
@@ -1063,7 +1063,7 @@ test('translation reader builds allowlisted URLs, caps size, and caches results'
   healthy = false;
   time += 11 * 60 * 1000;
   assert.equal(await flaky('hi', PERCEPTRON), HINDI, 'keeps the last good translation when a refresh fails');
-  assert.equal(translations.translationSourceUrl('hi', PERCEPTRON), `https://github.com/rohitg00/ai-engineering-from-scratch/blob/translations/i18n/hi/${PERCEPTRON}/docs/hi.md`);
+  assert.equal(translations.translationSourceUrl('hi', PERCEPTRON), `https://github.com/code2careerai/ai-engineering-from-scratch/blob/translations/i18n/hi/${PERCEPTRON}/docs/hi.md`);
   assert.equal(translations.lessonUrl(PERCEPTRON, 'pt-BR'), PERCEPTRON_URL + '&lang=pt-BR');
   assert.equal(translations.lessonUrl(PERCEPTRON, 'en'), PERCEPTRON_URL);
 });

@@ -14,7 +14,7 @@
   "youWillBuild": "An annotated HTML lesson, glossary.json and a term-coverage report",
   "author": {
     "name": "AI Engineering from Scratch",
-    "github": "rohitg00"
+    "github": "code2careerai"
   },
   "languageWhy": {
     "TypeScript": "Typed local transformations and portable browser interfaces run with Node standard libraries."

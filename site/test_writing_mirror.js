@@ -2,8 +2,8 @@ const assert = require('node:assert/strict');
 const test = require('node:test');
 const { mirrorArticle } = require('./writing-mirror');
 
-const item = { id: '/blog/example/', url: 'https://rohitghumare.com/blog/example/', kind: 'blog', title: 'Example' };
-const guide = { id: '/guides/model/', url: 'https://rohitghumare.com/guides/model/', kind: 'guide', title: 'Model' };
+const item = { id: '/blog/example/', url: 'https://code2careerai.com/blog/example/', kind: 'blog', title: 'Example' };
+const guide = { id: '/guides/model/', url: 'https://code2careerai.com/guides/model/', kind: 'guide', title: 'Model' };
 const catalog = [item, guide];
 const theme = '<button class="toggle" id="theme" aria-label="Toggle theme"><svg class="sun"><path d="M1 2"/></svg></button>';
 const script = 'const example = \'<a href="/blog/example/">not markup</a>\';\nconst root=document.documentElement; document.getElementById("theme").onclick=()=>root.dataset.theme="dark";';
@@ -16,13 +16,13 @@ function fixture({ legacy = false, head = '', body = '' } = {}) {
     + '<link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=VT323">'
     + '<style>' + style + '</style>' + head + '</head><body><div class="wrap">'
     + (legacy
-      ? '<div class="topbar"><nav class="crumb"><a href="/">Rohit Ghumare</a><a href="/">Blog</a></nav>' + theme + '</div>'
+      ? '<div class="topbar"><nav class="crumb"><a href="/">code2careerai</a><a href="/">Blog</a></nav>' + theme + '</div>'
       : '<nav class="nav"><a class="brand" href="/">rg<span>.</span></a><div class="links"><a href="/guides/">Guides</a><a href="/blog/">Blog</a>' + theme + '</div></nav>')
     + '<article><nav class="crumb"><a href="/">Home</a><a href="/blog/">Blog</a></nav><h1>Example</h1>'
     + '<p class="byline">code2careerai· October 8, 2026</p><nav class="toc"><a href="#figure">Contents</a></nav>'
     + '<div id="figure" class="fig"><svg><defs><marker id="head"></marker></defs><path marker-end="url(#head)"/></svg></div>'
-    + body + '<div class="author"><span class="n">Rohit Ghumare</span><p>I build agent infrastructure.</p></div></article>'
-    + '<footer><a href="/blog/">Blog</a> · <a href="/">rohitghumare</a></footer></div>'
+    + body + '<div class="author"><span class="n">code2careerai</span><p>I build agent infrastructure.</p></div></article>'
+    + '<footer><a href="/blog/">Blog</a> · <a href="/">code2careerai</a></footer></div>'
     + '<script>' + script + '</script><script src="/search.js" defer></script><script src="/dither.js" defer></script></body></html>';
 }
 
@@ -33,14 +33,14 @@ test('the complete article keeps executable figures, anchors, source metadata, a
   assert.ok(result.includes(theme));
   assert.match(result, /href="#figure"/);
   assert.match(result, /marker-end="url\(#head\)"/);
-  assert.match(result, /<link rel="canonical" href="https:\/\/rohitghumare.com\/blog\/example\/">/);
-  assert.match(result, /<meta property="og:url" content="https:\/\/rohitghumare.com\/blog\/example\/">/);
+  assert.match(result, /<link rel="canonical" href="https:\/\/code2careerai.com\/blog\/example\/">/);
+  assert.match(result, /<meta property="og:url" content="https:\/\/code2careerai.com\/blog\/example\/">/);
   assert.match(result, /<meta property="og:site_name" content="AI Engineering from Scratch">/);
-  assert.match(result, /class="byline">Rohit Ghumare/);
-  assert.match(result, /class="n">Rohit Ghumare/);
+  assert.match(result, /class="byline">code2careerai/);
+  assert.match(result, /class="n">code2careerai/);
   assert.match(result, /AI \/ FROM SCRATCH/);
   assert.match(result, /href="\/blogs">Blogs &amp; Guides/);
-  assert.doesNotMatch(result, /<base\b|src="\/search.js"|>rohitghumare<|class="brand"/);
+  assert.doesNotMatch(result, /<base\b|src="\/search.js"|>code2careerai<|class="brand"/);
 });
 
 test('legacy breadcrumb headers retain their theme button and receive course navigation', () => {
@@ -54,7 +54,7 @@ test('legacy breadcrumb headers retain their theme button and receive course nav
 test('article links stay local, including unlisted targets, while downloadable assets use their source', () => {
   const result = mirrorArticle(fixture({ body: [
     '<a href="/guides/model/#quant">Model</a>',
-    '<a href="https://rohitghumare.com/guides/model/?mode=one&amp;x=two#fit">Model absolute</a>',
+    '<a href="https://code2careerai.com/guides/model/?mode=one&amp;x=two#fit">Model absolute</a>',
     '<a href="../unpublished/">Unlisted</a>',
     '<a href="/guides/">All guides</a>',
     '<a href="code/harness.py">Runnable code</a>',
@@ -66,11 +66,11 @@ test('article links stay local, including unlisted targets, while downloadable a
   assert.match(result, /href="\/guides\/model\/#quant"/);
   assert.match(result, /href="\/guides\/model\/\?mode=one&amp;x=two#fit"/);
   assert.match(result, /href="\/blog\/unpublished\/"/);
-  assert.match(result, /href="https:\/\/rohitghumare.com\/blog\/example\/code\/harness.py"/);
-  assert.match(result, /src="https:\/\/rohitghumare.com\/blog\/example\/figure.png"/);
-  assert.match(result, /srcset="https:\/\/rohitghumare.com\/blog\/example\/figure.png 1x, https:\/\/rohitghumare.com\/figure@2x.png 2x"/);
-  assert.match(result, /src="https:\/\/rohitghumare.com\/dither.js"/);
-  assert.match(result, /href="https:\/\/rohitghumare.com\/favicon.svg"/);
+  assert.match(result, /href="https:\/\/code2careerai.com\/blog\/example\/code\/harness.py"/);
+  assert.match(result, /src="https:\/\/code2careerai.com\/blog\/example\/figure.png"/);
+  assert.match(result, /srcset="https:\/\/code2careerai.com\/blog\/example\/figure.png 1x, https:\/\/code2careerai.com\/figure@2x.png 2x"/);
+  assert.match(result, /src="https:\/\/code2careerai.com\/dither.js"/);
+  assert.match(result, /href="https:\/\/code2careerai.com\/favicon.svg"/);
   assert.match(result, /src="data:image\/svg\+xml;base64,abc"/);
   assert.match(result, /<use href="#head"\/>/);
   assert.match(result, /href="https:\/\/docs.example.org\/api\/"/);
@@ -93,10 +93,10 @@ test('drafts, redirects, mismatched canonicals, and malformed reader documents f
     '<meta name="robots" content="none">',
     '<meta http-equiv="Refresh" content="0;url=https://example.org/">',
     '<link rel="canonical" href="' + item.url + '">',
-    '<base href="https://rohitghumare.com/">',
+    '<base href="https://code2careerai.com/">',
   ]) assert.throws(() => mirrorArticle(fixture({ head }), item, catalog));
   assert.throws(() => mirrorArticle(fixture().replace('<link rel="canonical" href="' + item.url + '">', ''), item, catalog), /canonical/);
-  assert.throws(() => mirrorArticle(fixture().replace('rel="canonical" href="' + item.url, 'rel="canonical" href="https://rohitghumare.com/blog/other/'), item, catalog), /canonical/);
+  assert.throws(() => mirrorArticle(fixture().replace('rel="canonical" href="' + item.url, 'rel="canonical" href="https://code2careerai.com/blog/other/'), item, catalog), /canonical/);
   assert.throws(() => mirrorArticle(fixture(), { ...item, url: 'https://evil.example/blog/example/' }, catalog), /canonical/);
   assert.throws(() => mirrorArticle(fixture(), item, [guide]), /published/);
 });
@@ -117,18 +117,18 @@ test('valid future layouts get reader navigation without requiring an article ta
 });
 
 test('absolute or versioned portfolio search is removed without removing unrelated source scripts', () => {
-  const html = fixture().replace('src="/search.js"', "src='https://rohitghumare.com/search.js?v=2'")
+  const html = fixture().replace('src="/search.js"', "src='https://code2careerai.com/search.js?v=2'")
     .replace('</body>', '<script src="https://example.org/search.js" defer></script></body>');
   const result = mirrorArticle(html, item, catalog);
-  assert.doesNotMatch(result, /rohitghumare.com\/search.js/);
+  assert.doesNotMatch(result, /code2careerai.com\/search.js/);
   assert.match(result, /src="https:\/\/example.org\/search.js"/);
 });
 
 test('social sharing points at the canonical URL and names the course site', () => {
-  const result = mirrorArticle(fixture({ head: '<meta name="twitter:url" content="https://aiengineeringfromscratch.com/blog/example/"><meta property="og:site_name" content="Rohit Ghumare">' }), item, catalog);
-  assert.match(result, /name="twitter:url" content="https:\/\/rohitghumare.com\/blog\/example\/"/);
-  assert.match(result, /property="og:url" content="https:\/\/rohitghumare.com\/blog\/example\/"/);
-  assert.match(result, /rel="canonical" href="https:\/\/rohitghumare.com\/blog\/example\/"/);
+  const result = mirrorArticle(fixture({ head: '<meta name="twitter:url" content="https://aiengineeringfromscratch.com/blog/example/"><meta property="og:site_name" content="code2careerai">' }), item, catalog);
+  assert.match(result, /name="twitter:url" content="https:\/\/code2careerai.com\/blog\/example\/"/);
+  assert.match(result, /property="og:url" content="https:\/\/code2careerai.com\/blog\/example\/"/);
+  assert.match(result, /rel="canonical" href="https:\/\/code2careerai.com\/blog\/example\/"/);
   assert.equal((result.match(/og:site_name/g) || []).length, 1);
   assert.match(result, /property="og:site_name" content="AI Engineering from Scratch"/);
 });
@@ -137,11 +137,11 @@ test('structured breadcrumbs match the course navigation without altering articl
   const article = {
     '@type': 'Article', headline: 'Example', description: 'Use <tools> safely.',
     mainEntityOfPage: { '@type': 'WebPage', '@id': item.url },
-    author: { '@type': 'Person', name: 'Rohit Ghumare', url: 'https://rohitghumare.com/' },
-    publisher: { '@type': 'Organization', name: 'Rohit Ghumare' },
+    author: { '@type': 'Person', name: 'code2careerai', url: 'https://code2careerai.com/' },
+    publisher: { '@type': 'Organization', name: 'code2careerai' },
   };
   const faq = { '@type': 'FAQPage', mainEntity: [{ '@type': 'Question', name: 'What is <tool>?' }] };
-  const breadcrumb = { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Blog', item: 'https://rohitghumare.com/blog/' }] };
+  const breadcrumb = { '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Blog', item: 'https://code2careerai.com/blog/' }] };
   const title = 'Example </script><script>alert(1)</script>';
   const nodes = [article, breadcrumb, faq];
   for (const data of [{ '@context': 'https://schema.org', '@graph': nodes }, nodes]) {

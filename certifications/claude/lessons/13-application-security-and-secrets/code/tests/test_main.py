@@ -47,7 +47,7 @@ class PolicyTests(unittest.TestCase):
         self.assertFalse(self.gate.evaluate(Action("http_get", {"url": "https://attacker.test/status"})).allowed)
 
     def test_redaction_removes_secret_value(self):
-        redacted = redact("token=abc123 user=rohit")
+        redacted = redact("token=abc123 user=code2careerai")
         self.assertNotIn("abc123", redacted)
         self.assertIn("[REDACTED]", redacted)
 

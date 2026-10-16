@@ -23,7 +23,7 @@
   "youWillBuild": "cleaned.csv, recipe.json and a cell-level HTML before/after report",
   "author": {
     "name": "AI Engineering from Scratch",
-    "github": "rohitg00"
+    "github": "code2careerai"
   },
   "overviewFigure": "pj-csv-repair-workbench-1",
   "figures": true,

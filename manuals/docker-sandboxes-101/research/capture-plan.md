@@ -661,19 +661,19 @@ sbx policy rm network --resource example.com --force
 sbx policy rm network --resource localhost:18080 --force
 sbx policy rm network --resource localhost:12434 --force
 sbx settings unset kit.allowedSources
-sbx setup ssh remove                          # if K02 ran it and Rohit wants it gone
+sbx setup ssh remove                          # if K02 ran it and code2careerai wants it gone
 docker rm -f aiefs-registry
 docker model unload --all
 ```
 
 The global `balanced` policy from K03 stays, because `sbx policy reset` stops every sandbox and is destructive.
 
-## 8. What needs Rohit's approval, in one list
+## 8. What needs code2careerai's approval, in one list
 
 1. Docker Desktop update to 4.94.0, enabling Docker Model Runner with host TCP 12434, and `docker model pull ai/qwen3` (several GB; prerequisite 5 and 6; K16 to K31 depend on it).
 2. K02: `sbx setup ssh` writes a managed block to `~/.ssh/config` (reversible with `sbx setup ssh remove`).
 3. K10b: `gh auth token` stored as the `github` service secret for one run and removed after; one `GET /user` call.
-4. K13 and K27: either trust a self-signed certificate for a TLS registry on 5443, or push to a public repository under `rohitghumare64` on Docker Hub if plain HTTP is refused.
+4. K13 and K27: either trust a self-signed certificate for a TLS registry on 5443, or push to a public repository under `code2careerai64` on Docker Hub if plain HTTP is refused.
 5. Downloads: `kit-tck` from docker/sandbox-kit-spec releases; images `registry:2`, `docker/sandbox-templates:shell`, `docker/sandbox-templates:docker-agent`, `docker/docker-agent-sbx-templates:latest`, `docker/docker-agent:1.149.0`, `docker/mcp-gateway`, `mcp/duckduckgo`, `curlimages/curl`, `hello-world`; the `fetch-mcp` OCI image via the registry add in K11.
 6. K33: Cloud Sandboxes, estimated under $0.20, only with a pay-as-you-go plan on the account.
 7. K18 and K26 fallback only: one recording with a paid model key if `ai/qwen3` cannot drive tool calls. Off by default.

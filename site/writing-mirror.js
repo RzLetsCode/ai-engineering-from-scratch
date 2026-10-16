@@ -1,4 +1,4 @@
-const SOURCE_ORIGIN = 'https://rohitghumare.com';
+const SOURCE_ORIGIN = 'https://code2careerai.com';
 const COURSE_ORIGIN = 'https://aiengineeringfromscratch.com';
 const COURSE_NAME = 'AI Engineering from Scratch';
 const ARTICLE_PATH = /^\/(?:blog|guides)\/[a-z0-9]+(?:-[a-z0-9]+)*\/$/;

@@ -11,7 +11,7 @@
   "source": "core",
   "author": {
     "name": "AI Engineering from Scratch",
-    "github": "rohitg00"
+    "github": "code2careerai"
   },
   "youWillBuild": "A citation receipt that separates exact source support from relevance to the question.",
   "usefulFor": [

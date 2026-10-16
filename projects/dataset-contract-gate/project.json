@@ -19,7 +19,7 @@
   "hours": 8,
   "author": {
     "name": "AI Engineering from Scratch",
-    "github": "rohitg00"
+    "github": "code2careerai"
   },
   "prerequisites": [
     "Python 3.12+; dictionaries, lists and command-line IO"

@@ -11,7 +11,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import translate_ui_strings as ui  # noqa: E402
 
 
-FIXED_TOKENS = ("SKILL.md", "README.md", "phases/", "start-learning", "@rohitg00", "(⌘K)", "{n}")
+FIXED_TOKENS = ("SKILL.md", "README.md", "phases/", "start-learning", "@code2careerai", "(⌘K)", "{n}")
 
 
 class SourceFileTest(unittest.TestCase):
@@ -86,7 +86,7 @@ class BuildLanguageTest(unittest.TestCase):
         samples = [
             "Open SKILL.md",
             "Use start-learning to begin the course.",
-            "Follow @rohitg00",
+            "Follow @code2careerai",
             "Search (⌘K)",
             "Every lesson across all {n} phases.",
             "Requires a local clone. Run copied commands from the repository root, the directory containing README.md and phases/.",
@@ -106,7 +106,7 @@ class BuildLanguageTest(unittest.TestCase):
                 if token in sample:
                     self.assertIn(token, strings[sample])
         self.assertEqual(strings["Open SKILL.md"], "OPEN SKILL.md")
-        self.assertEqual(strings["Follow @rohitg00"], "FOLLOW @rohitg00")
+        self.assertEqual(strings["Follow @code2careerai"], "FOLLOW @code2careerai")
 
     def test_placeholder_loss_leaves_the_key_english(self):
         strings, count = ui.build_language(["Open SKILL.md"], {}, {}, lambda s: "opened")

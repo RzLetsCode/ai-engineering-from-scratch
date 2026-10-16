@@ -16,7 +16,7 @@
   "youWillBuild": "A navigable HTML diagram walkthrough and a reviewed graph manifest",
   "author": {
     "name": "AI Engineering from Scratch",
-    "github": "rohitg00"
+    "github": "code2careerai"
   },
   "languageWhy": {
     "TypeScript": "Typed local transformations and portable browser interfaces run with Node standard libraries."

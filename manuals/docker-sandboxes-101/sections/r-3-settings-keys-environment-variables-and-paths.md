@@ -119,7 +119,7 @@ Provider credential variables such as `ANTHROPIC_API_KEY` are listed in [R.6](#s
 
 ## Paths on macOS
 
-The capture machine runs macOS, so the table gives macOS paths first and the Linux and Windows forms where the docs state them. Replace `rohitghumare` with your user name.
+The capture machine runs macOS, so the table gives macOS paths first and the Linux and Windows forms where the docs state them. Replace `code2careerai` with your user name.
 
 | Path | Holds | Tool | Source |
 |---|---|---|---|

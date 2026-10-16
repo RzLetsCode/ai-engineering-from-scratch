@@ -1,7 +1,7 @@
 # Sponsorship
 
 `ai-engineering-from-scratch` is a free, MIT-licensed curriculum. 542 lessons across 20
-phases. The work is built and maintained by [Rohit Ghumare](https://github.com/rohitg00).
+phases. The work is built and maintained by [code2careerai](https://github.com/code2careerai).
 
 Cash sponsorships fund the time it takes to ship lessons, keep the site running, and reply
 to the issue queue. Production hardware is considered separately under the
@@ -22,7 +22,7 @@ If you or your company want to support the curriculum, this page is the rate car
 Sponsor names, logos, links, and tier assignments are managed by the maintainer.
 Sponsorship changes are not accepted through contributor pull requests.
 
-- **GitHub Sponsors:** [github.com/sponsors/rohitg00](https://github.com/sponsors/rohitg00)
+- **GitHub Sponsors:** [github.com/sponsors/code2careerai](https://github.com/sponsors/code2careerai)
 
 GitHub Sponsors handles billing, receipts, and tax forms. 0% platform fee on personal
 sponsorships, up to 6% on organization sponsorships, per [GitHub's policy](https://docs.github.com/en/sponsors/receiving-sponsorships-through-github-sponsors/about-github-sponsors-for-open-source-contributors).
@@ -90,7 +90,7 @@ lessons and repository work. The provider receives up to 12 months of Hardware L
 recognition on the sponsor page and in relevant work. Hardware does not automatically grant
 a cash sponsorship tier.
 
-Contact the [maintainer](https://github.com/rohitg00) before shipping hardware.
+Contact the [maintainer](https://github.com/code2careerai) before shipping hardware.
 
 ## Hard rules
 
@@ -166,7 +166,7 @@ Listed in order of how the next dollar gets spent:
 ## Becoming a sponsor
 
 1. Pick a tier above.
-2. Subscribe via [GitHub Sponsors](https://github.com/sponsors/rohitg00).
+2. Subscribe via [GitHub Sponsors](https://github.com/sponsors/code2careerai).
 3. For Silver and above, email the maintainer with: your logo (SVG preferred), the URL
    you want it linked to, and the term length you've committed to.
 4. The logo lands in the next site deploy, usually within 48 hours.

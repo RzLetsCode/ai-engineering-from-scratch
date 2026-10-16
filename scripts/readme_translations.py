@@ -32,7 +32,7 @@ H_CLONE_EVIDENCE = "Clone it and produce your first evidence"
 PREFLIGHT = "The preflight separates requirements needed now from tools needed later. Every required failure includes the detected reason and a corrective command. The second command is a dependency-free lesson and ends by showing that a matrix times a vector is the operation inside a neural network layer. Save that terminal output as your first evidence."
 WAYS = "Three ways in. Pick one."
 LICENSE_LINE = "MIT. Use it however you want — fork it, teach it, sell it, ship it. Attribution appreciated, not required."
-MAINTAINED = "Maintained by [Rohit Ghumare](https://github.com/rohitg00) and the community."
+MAINTAINED = "Maintained by [code2careerai](https://github.com/code2careerai) and the community."
 
 H_HOW = "How this works"
 H_CURR = "The shape of the curriculum"
@@ -50,7 +50,7 @@ H_SPONSOR = "Sponsor the work"
 H_STAR = "Star history"
 H_LICENSE = "License"
 SPONSOR_CLOSING = "Free, MIT-licensed, 523 lessons. Thank you to the sponsors and backers who make the work possible. [See all sponsors and backers](BACKERS.md)."
-SPONSOR_INVITE = "Want to support the work? See [sponsorship options](SPONSORS.md), including [hardware sponsorships](SPONSORS.md#hardware-lab-partner), or [sponsor on GitHub](https://github.com/sponsors/rohitg00)."
+SPONSOR_INVITE = "Want to support the work? See [sponsorship options](SPONSORS.md), including [hardware sponsorships](SPONSORS.md#hardware-lab-partner), or [sponsor on GitHub](https://github.com/sponsors/code2careerai)."
 
 README_NOTE = {
     "es": '<p align="center"><sub>Traducción de la comunidad. El <a href="../../README.md">inglés es la versión canónica</a> · <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a></sub></p>',
@@ -78,7 +78,7 @@ TRANSLATIONS = {
         HERO3: "No solo aprendes IA. La construyes. De principio a fin. A mano.",
         WAYS: "Tres formas de empezar. Elige una.",
         LICENSE_LINE: "MIT. Úsalo como quieras: bifúrcalo, enséñalo, véndelo, publícalo. La atribución se agradece, pero no es obligatoria.",
-        MAINTAINED: "Mantenido por [Rohit Ghumare](https://github.com/rohitg00) y la comunidad.",
+        MAINTAINED: "Mantenido por [code2careerai](https://github.com/code2careerai) y la comunidad.",
         H_HOW: "Cómo funciona", H_CURR: "La forma del plan de estudios", H_LESSON: "La forma de una lección",
         H_START: "Primeros pasos", H_PREREQ: "Requisitos previos", H_BOOK: "Léelo como un libro",
         H_SHIPS: "Cada lección entrega algo", H_CONTENTS: "Contenido", H_TOOLKIT: "El kit de herramientas",
@@ -91,7 +91,7 @@ TRANSLATIONS = {
         HERO3: "Vous n'apprenez pas seulement l'IA. Vous la construisez. De bout en bout. À la main.",
         WAYS: "Trois façons de commencer. Choisissez-en une.",
         LICENSE_LINE: "MIT. Utilisez-le comme vous voulez : forkez-le, enseignez-le, vendez-le, publiez-le. L'attribution est appréciée, mais pas obligatoire.",
-        MAINTAINED: "Maintenu par [Rohit Ghumare](https://github.com/rohitg00) et la communauté.",
+        MAINTAINED: "Maintenu par [code2careerai](https://github.com/code2careerai) et la communauté.",
         H_HOW: "Comment ça marche", H_CURR: "La forme du cursus", H_LESSON: "La forme d'une leçon",
         H_START: "Pour commencer", H_PREREQ: "Prérequis", H_BOOK: "Lisez-le comme un livre",
         H_SHIPS: "Chaque leçon produit quelque chose", H_CONTENTS: "Sommaire", H_TOOLKIT: "La boîte à outils",
@@ -128,7 +128,7 @@ TRANSLATIONS = {
         PREFLIGHT: "A verificação inicial separa os requisitos necessários agora das ferramentas necessárias depois. Cada falha obrigatória mostra a causa detectada e um comando corretivo. O segundo comando executa uma lição sem dependências e termina mostrando que multiplicar uma matriz por um vetor é a operação dentro de uma camada de rede neural. Guarde essa saída do terminal como sua primeira evidência.",
         WAYS: "Três formas de começar. Escolha uma.",
         LICENSE_LINE: "MIT. Use como quiser: faça fork, ensine, venda, publique. A atribuição é bem-vinda, mas não obrigatória.",
-        MAINTAINED: "Mantido por [Rohit Ghumare](https://github.com/rohitg00) e pela comunidade.",
+        MAINTAINED: "Mantido por [code2careerai](https://github.com/code2careerai) e pela comunidade.",
         H_HOW: "Como funciona", H_CURR: "O formato do currículo", H_LESSON: "O formato de uma lição",
         H_START: "Primeiros passos", H_PREREQ: "Pré-requisitos", H_BOOK: "Leia como um livro",
         H_SHIPS: "Cada lição entrega algo", H_CONTENTS: "Conteúdo", H_TOOLKIT: "O kit de ferramentas",
@@ -141,7 +141,7 @@ TRANSLATIONS = {
         HERO3: "Du lernst KI nicht nur. Du baust sie. Von Anfang bis Ende. Von Hand.",
         WAYS: "Drei Einstiege. Wähle einen.",
         LICENSE_LINE: "MIT. Nutze es, wie du willst: forke es, unterrichte es, verkaufe es, veröffentliche es. Nennung ist willkommen, aber nicht erforderlich.",
-        MAINTAINED: "Betreut von [Rohit Ghumare](https://github.com/rohitg00) und der Community.",
+        MAINTAINED: "Betreut von [code2careerai](https://github.com/code2careerai) und der Community.",
         H_HOW: "So funktioniert es", H_CURR: "Der Aufbau des Lehrplans", H_LESSON: "Der Aufbau einer Lektion",
         H_START: "Erste Schritte", H_PREREQ: "Voraussetzungen", H_BOOK: "Als Buch lesen",
         H_SHIPS: "Jede Lektion liefert etwas", H_CONTENTS: "Inhalt", H_TOOLKIT: "Das Toolkit",
@@ -154,7 +154,7 @@ TRANSLATIONS = {
         HERO3: "Non impari solo l'IA. La costruisci. Dall'inizio alla fine. A mano.",
         WAYS: "Tre modi per iniziare. Scegline uno.",
         LICENSE_LINE: "MIT. Usalo come vuoi: forkalo, insegnalo, vendilo, pubblicalo. L'attribuzione è gradita, ma non obbligatoria.",
-        MAINTAINED: "Mantenuto da [Rohit Ghumare](https://github.com/rohitg00) e dalla community.",
+        MAINTAINED: "Mantenuto da [code2careerai](https://github.com/code2careerai) e dalla community.",
         H_HOW: "Come funziona", H_CURR: "La struttura del percorso", H_LESSON: "La struttura di una lezione",
         H_START: "Per iniziare", H_PREREQ: "Prerequisiti", H_BOOK: "Leggilo come un libro",
         H_SHIPS: "Ogni lezione produce qualcosa", H_CONTENTS: "Indice", H_TOOLKIT: "Il toolkit",
@@ -167,7 +167,7 @@ TRANSLATIONS = {
         HERO3: "你不只是学 AI，你亲手把它造出来。从头到尾，全部手写。",
         WAYS: "三种入门方式，任选其一。",
         LICENSE_LINE: "MIT 许可。随你怎么用：复刻、教学、出售、发布都行。欢迎署名，但并非必须。",
-        MAINTAINED: "由 [Rohit Ghumare](https://github.com/rohitg00) 和社区共同维护。",
+        MAINTAINED: "由 [code2careerai](https://github.com/code2careerai) 和社区共同维护。",
         H_HOW: "运作方式", H_CURR: "课程的整体结构", H_LESSON: "单节课的结构",
         H_START: "快速开始", H_PREREQ: "先决条件", H_BOOK: "当作一本书来读",
         H_SHIPS: "每节课都有产出", H_CONTENTS: "目录", H_TOOLKIT: "工具箱",
@@ -180,7 +180,7 @@ TRANSLATIONS = {
         HERO3: "AIをただ学ぶのではありません。自分の手で作ります。最初から最後まで、手作業で。",
         WAYS: "入り方は3つ。ひとつ選んでください。",
         LICENSE_LINE: "MIT。好きなように使ってください。フォークする、教える、売る、公開する。クレジットは歓迎しますが、必須ではありません。",
-        MAINTAINED: "[Rohit Ghumare](https://github.com/rohitg00) とコミュニティが保守しています。",
+        MAINTAINED: "[code2careerai](https://github.com/code2careerai) とコミュニティが保守しています。",
         H_HOW: "仕組み", H_CURR: "カリキュラムの全体像", H_LESSON: "レッスンの構成",
         H_START: "はじめに", H_PREREQ: "前提知識", H_BOOK: "本として読む",
         H_SHIPS: "どのレッスンにも成果物がある", H_CONTENTS: "目次", H_TOOLKIT: "ツールキット",
@@ -193,7 +193,7 @@ TRANSLATIONS = {
         HERO3: "AI를 배우기만 하는 것이 아닙니다. 직접 만듭니다. 처음부터 끝까지, 손으로.",
         WAYS: "시작하는 방법은 세 가지. 하나를 고르세요.",
         LICENSE_LINE: "MIT. 원하는 대로 쓰세요. 포크하고, 가르치고, 팔고, 배포하세요. 출처 표기는 환영하지만 필수는 아닙니다.",
-        MAINTAINED: "[Rohit Ghumare](https://github.com/rohitg00) 와 커뮤니티가 관리합니다.",
+        MAINTAINED: "[code2careerai](https://github.com/code2careerai) 와 커뮤니티가 관리합니다.",
         H_HOW: "동작 방식", H_CURR: "커리큘럼의 구조", H_LESSON: "레슨의 구조",
         H_START: "시작하기", H_PREREQ: "사전 요구 사항", H_BOOK: "책으로 읽기",
         H_SHIPS: "모든 레슨은 결과물을 남깁니다", H_CONTENTS: "목차", H_TOOLKIT: "툴킷",
@@ -206,7 +206,7 @@ TRANSLATIONS = {
         HERO3: "आप केवल AI सीखते नहीं। आप उसे बनाते हैं। शुरू से अंत तक। अपने हाथों से।",
         WAYS: "शुरू करने के तीन तरीके। कोई एक चुनें।",
         LICENSE_LINE: "MIT। जैसे चाहें इस्तेमाल करें: फ़ोर्क करें, पढ़ाएँ, बेचें, प्रकाशित करें। श्रेय देना अच्छा है, पर ज़रूरी नहीं।",
-        MAINTAINED: "[Rohit Ghumare](https://github.com/rohitg00) और समुदाय द्वारा अनुरक्षित।",
+        MAINTAINED: "[code2careerai](https://github.com/code2careerai) और समुदाय द्वारा अनुरक्षित।",
         H_HOW: "यह कैसे काम करता है", H_CURR: "पाठ्यक्रम की संरचना", H_LESSON: "एक पाठ की संरचना",
         H_START: "शुरुआत करें", H_PREREQ: "आवश्यक शर्तें", H_BOOK: "इसे किताब की तरह पढ़ें",
         H_SHIPS: "हर पाठ कुछ न कुछ देता है", H_CONTENTS: "विषय-सूची", H_TOOLKIT: "टूलकिट",
@@ -219,7 +219,7 @@ TRANSLATIONS = {
         HERO3: "أنت لا تتعلّم الذكاء الاصطناعي فحسب، بل تبنيه بنفسك. من البداية إلى النهاية. يدويًا.",
         WAYS: "ثلاث طرق للبدء. اختر واحدة.",
         LICENSE_LINE: "رخصة MIT. استخدمه كما تشاء: انسخه، وعلّمه، وبِعه، وانشره. ذكر المصدر محلّ تقدير، لكنه غير مطلوب.",
-        MAINTAINED: "يتولّى صيانته [Rohit Ghumare](https://github.com/rohitg00) والمجتمع.",
+        MAINTAINED: "يتولّى صيانته [code2careerai](https://github.com/code2careerai) والمجتمع.",
         H_HOW: "كيف يعمل هذا", H_CURR: "بنية المنهج", H_LESSON: "بنية الدرس",
         H_START: "البدء", H_PREREQ: "المتطلبات المسبقة", H_BOOK: "اقرأه ككتاب",
         H_SHIPS: "كل درس ينتج شيئًا", H_CONTENTS: "المحتويات", H_TOOLKIT: "مجموعة الأدوات",
@@ -256,7 +256,7 @@ TRANSLATIONS = {
         PREFLIGHT: "Предварительная проверка отделяет требования, нужные сейчас, от инструментов, которые понадобятся позже. Для каждой обязательной ошибки показаны обнаруженная причина и команда исправления. Вторая команда запускает урок без зависимостей и показывает, что умножение матрицы на вектор является операцией внутри слоя нейронной сети. Сохраните этот вывод терминала как первое доказательство.",
         WAYS: "Три способа начать. Выберите один.",
         LICENSE_LINE: "MIT. Используйте как угодно: форкайте, преподавайте, продавайте, публикуйте. Указание авторства приветствуется, но не обязательно.",
-        MAINTAINED: "Поддерживается [Rohit Ghumare](https://github.com/rohitg00) и сообществом.",
+        MAINTAINED: "Поддерживается [code2careerai](https://github.com/code2careerai) и сообществом.",
         H_HOW: "Как это устроено", H_CURR: "Структура курса", H_LESSON: "Структура урока",
         H_START: "Начало работы", H_PREREQ: "Предварительные требования", H_BOOK: "Читать как книгу",
         H_SHIPS: "Каждый урок что-то даёт", H_CONTENTS: "Содержание", H_TOOLKIT: "Набор инструментов",
@@ -293,7 +293,7 @@ TRANSLATIONS = {
         PREFLIGHT: "Ön kontrol, şimdi gereken gereksinimleri daha sonra gerekecek araçlardan ayırır. Her zorunlu hata, tespit edilen nedeni ve bir düzeltme komutunu gösterir. İkinci komut bağımlılık gerektirmeyen bir ders çalıştırır ve sonunda bir matrisi bir vektörle çarpmanın, bir sinir ağı katmanının içindeki işlem olduğunu gösterir. Bu terminal çıktısını ilk kanıtınız olarak saklayın.",
         WAYS: "Başlamanın üç yolu. Birini seçin.",
         LICENSE_LINE: "MIT. İstediğiniz gibi kullanın: fork'layın, öğretin, satın, yayımlayın. Atıf makbule geçer ama zorunlu değildir.",
-        MAINTAINED: "[Rohit Ghumare](https://github.com/rohitg00) ve topluluk tarafından sürdürülmektedir.",
+        MAINTAINED: "[code2careerai](https://github.com/code2careerai) ve topluluk tarafından sürdürülmektedir.",
         H_HOW: "Nasıl çalışır", H_CURR: "Müfredatın yapısı", H_LESSON: "Bir dersin yapısı",
         H_START: "Başlarken", H_PREREQ: "Ön koşullar", H_BOOK: "Kitap olarak okuyun",
         H_SHIPS: "Her ders bir şey üretir", H_CONTENTS: "İçindekiler", H_TOOLKIT: "Araç seti",
@@ -310,7 +310,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "Tu apoyo mantiene cada lección gratuita y de código abierto.",
         SEE_SUPPORTERS: "Ver todos los colaboradores",
         SPONSOR_CLOSING: "Gratis, con licencia MIT, 523 lecciones. Gracias a los patrocinadores y colaboradores que hacen posible este trabajo. [Ver todos los patrocinadores y colaboradores](BACKERS.md).",
-        SPONSOR_INVITE: "¿Quieres apoyar el proyecto? Consulta las [opciones de patrocinio](SPONSORS.md), incluidos los [patrocinios de hardware](SPONSORS.md#hardware-lab-partner), o [patrocina en GitHub](https://github.com/sponsors/rohitg00).",
+        SPONSOR_INVITE: "¿Quieres apoyar el proyecto? Consulta las [opciones de patrocinio](SPONSORS.md), incluidos los [patrocinios de hardware](SPONSORS.md#hardware-lab-partner), o [patrocina en GitHub](https://github.com/sponsors/code2careerai).",
     },
     "fr": {
         H_SPONSORS: "Partenaires",
@@ -319,7 +319,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "Votre soutien permet à chaque leçon de rester gratuite et open source.",
         SEE_SUPPORTERS: "Voir tous les soutiens",
         SPONSOR_CLOSING: "Gratuit, sous licence MIT, 523 leçons. Merci aux sponsors et aux soutiens qui rendent ce travail possible. [Voir tous les sponsors et soutiens](BACKERS.md).",
-        SPONSOR_INVITE: "Vous souhaitez soutenir le projet ? Consultez les [options de sponsoring](SPONSORS.md), notamment le [sponsoring matériel](SPONSORS.md#hardware-lab-partner), ou [soutenez le projet sur GitHub](https://github.com/sponsors/rohitg00).",
+        SPONSOR_INVITE: "Vous souhaitez soutenir le projet ? Consultez les [options de sponsoring](SPONSORS.md), notamment le [sponsoring matériel](SPONSORS.md#hardware-lab-partner), ou [soutenez le projet sur GitHub](https://github.com/sponsors/code2careerai).",
     },
     "pt": {
         H_SPONSORS: "Patrocinadores",
@@ -328,7 +328,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "Seu apoio mantém todas as lições gratuitas e de código aberto.",
         SEE_SUPPORTERS: "Ver todos os apoiadores",
         SPONSOR_CLOSING: "Grátis, com licença MIT, 523 lições. Agradecemos aos patrocinadores e apoiadores que tornam este trabalho possível. [Ver todos os patrocinadores e apoiadores](BACKERS.md).",
-        SPONSOR_INVITE: "Quer apoiar o projeto? Veja as [opções de patrocínio](SPONSORS.md), incluindo [patrocínios de hardware](SPONSORS.md#hardware-lab-partner), ou [patrocine pelo GitHub](https://github.com/sponsors/rohitg00).",
+        SPONSOR_INVITE: "Quer apoiar o projeto? Veja as [opções de patrocínio](SPONSORS.md), incluindo [patrocínios de hardware](SPONSORS.md#hardware-lab-partner), ou [patrocine pelo GitHub](https://github.com/sponsors/code2careerai).",
     },
     "de": {
         H_SPONSORS: "Sponsoren",
@@ -337,7 +337,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "Deine Unterstützung hält jede Lektion kostenlos und quelloffen.",
         SEE_SUPPORTERS: "Alle Unterstützer ansehen",
         SPONSOR_CLOSING: "Kostenlos, MIT-lizenziert, 523 Lektionen. Vielen Dank an die Sponsoren und Unterstützer, die diese Arbeit ermöglichen. [Alle Sponsoren und Unterstützer ansehen](BACKERS.md).",
-        SPONSOR_INVITE: "Möchtest du die Arbeit unterstützen? Sieh dir die [Sponsoring-Optionen](SPONSORS.md) einschließlich [Hardware-Sponsoring](SPONSORS.md#hardware-lab-partner) an oder [unterstütze das Projekt auf GitHub](https://github.com/sponsors/rohitg00).",
+        SPONSOR_INVITE: "Möchtest du die Arbeit unterstützen? Sieh dir die [Sponsoring-Optionen](SPONSORS.md) einschließlich [Hardware-Sponsoring](SPONSORS.md#hardware-lab-partner) an oder [unterstütze das Projekt auf GitHub](https://github.com/sponsors/code2careerai).",
     },
     "it": {
         H_SPONSORS: "Sponsor",
@@ -346,7 +346,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "Il tuo sostegno mantiene ogni lezione gratuita e open source.",
         SEE_SUPPORTERS: "Vedi tutti i sostenitori",
         SPONSOR_CLOSING: "Gratuito, con licenza MIT, 523 lezioni. Grazie agli sponsor e ai sostenitori che rendono possibile questo lavoro. [Vedi tutti gli sponsor e i sostenitori](BACKERS.md).",
-        SPONSOR_INVITE: "Vuoi sostenere il progetto? Consulta le [opzioni di sponsorizzazione](SPONSORS.md), incluse le [sponsorizzazioni hardware](SPONSORS.md#hardware-lab-partner), oppure [sostienilo su GitHub](https://github.com/sponsors/rohitg00).",
+        SPONSOR_INVITE: "Vuoi sostenere il progetto? Consulta le [opzioni di sponsorizzazione](SPONSORS.md), incluse le [sponsorizzazioni hardware](SPONSORS.md#hardware-lab-partner), oppure [sostienilo su GitHub](https://github.com/sponsors/code2careerai).",
     },
     "zh": {
         H_SPONSORS: "赞助方",
@@ -355,7 +355,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "你的支持让每节课都能保持免费和开源。",
         SEE_SUPPORTERS: "查看所有支持者",
         SPONSOR_CLOSING: "免费、采用 MIT 许可证，共 523 节课。感谢所有让这项工作成为可能的赞助方和支持者。[查看所有赞助方和支持者](BACKERS.md)。",
-        SPONSOR_INVITE: "想支持这项工作？请查看[赞助方案](SPONSORS.md)，包括[硬件赞助](SPONSORS.md#hardware-lab-partner)，或[通过 GitHub 赞助](https://github.com/sponsors/rohitg00)。",
+        SPONSOR_INVITE: "想支持这项工作？请查看[赞助方案](SPONSORS.md)，包括[硬件赞助](SPONSORS.md#hardware-lab-partner)，或[通过 GitHub 赞助](https://github.com/sponsors/code2careerai)。",
     },
     "ja": {
         H_SPONSORS: "スポンサー",
@@ -364,7 +364,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "皆さまの支援により、すべてのレッスンを無料かつオープンソースで提供できます。",
         SEE_SUPPORTERS: "すべての支援者を見る",
         SPONSOR_CLOSING: "無料、MITライセンス、523レッスン。この取り組みを支えるスポンサーと支援者の皆さまに感謝します。[すべてのスポンサーと支援者を見る](BACKERS.md)。",
-        SPONSOR_INVITE: "この取り組みを支援するには、[スポンサーシップの選択肢](SPONSORS.md)と[ハードウェアスポンサーシップ](SPONSORS.md#hardware-lab-partner)をご覧になるか、[GitHubでスポンサーになる](https://github.com/sponsors/rohitg00)ことができます。",
+        SPONSOR_INVITE: "この取り組みを支援するには、[スポンサーシップの選択肢](SPONSORS.md)と[ハードウェアスポンサーシップ](SPONSORS.md#hardware-lab-partner)をご覧になるか、[GitHubでスポンサーになる](https://github.com/sponsors/code2careerai)ことができます。",
     },
     "ko": {
         H_SPONSORS: "후원사",
@@ -373,7 +373,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "여러분의 후원으로 모든 레슨을 무료 오픈소스로 유지할 수 있습니다.",
         SEE_SUPPORTERS: "모든 후원자 보기",
         SPONSOR_CLOSING: "무료, MIT 라이선스, 523개 레슨. 이 작업을 가능하게 해 주는 후원사와 후원자 여러분께 감사드립니다. [모든 후원사와 후원자 보기](BACKERS.md).",
-        SPONSOR_INVITE: "이 작업을 지원하려면 [후원 옵션](SPONSORS.md)과 [하드웨어 후원](SPONSORS.md#hardware-lab-partner)을 확인하거나 [GitHub에서 후원](https://github.com/sponsors/rohitg00)하세요.",
+        SPONSOR_INVITE: "이 작업을 지원하려면 [후원 옵션](SPONSORS.md)과 [하드웨어 후원](SPONSORS.md#hardware-lab-partner)을 확인하거나 [GitHub에서 후원](https://github.com/sponsors/code2careerai)하세요.",
     },
     "hi": {
         H_SPONSORS: "प्रायोजक",
@@ -382,7 +382,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "आपका सहयोग हर पाठ को मुफ़्त और ओपन सोर्स बनाए रखता है।",
         SEE_SUPPORTERS: "सभी समर्थक देखें",
         SPONSOR_CLOSING: "मुफ़्त, MIT लाइसेंस के अंतर्गत, 523 पाठ। इस काम को संभव बनाने वाले प्रायोजकों और समर्थकों का धन्यवाद। [सभी प्रायोजक और समर्थक देखें](BACKERS.md)।",
-        SPONSOR_INVITE: "इस काम में सहयोग करना चाहते हैं? [प्रायोजन विकल्प](SPONSORS.md), जिनमें [हार्डवेयर प्रायोजन](SPONSORS.md#hardware-lab-partner) शामिल है, देखें या [GitHub पर प्रायोजित करें](https://github.com/sponsors/rohitg00)।",
+        SPONSOR_INVITE: "इस काम में सहयोग करना चाहते हैं? [प्रायोजन विकल्प](SPONSORS.md), जिनमें [हार्डवेयर प्रायोजन](SPONSORS.md#hardware-lab-partner) शामिल है, देखें या [GitHub पर प्रायोजित करें](https://github.com/sponsors/code2careerai)।",
     },
     "ar": {
         H_SPONSORS: "الرعاة",
@@ -391,7 +391,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "دعمكم يُبقي كل درس مجانيًا ومفتوح المصدر.",
         SEE_SUPPORTERS: "عرض جميع الداعمين",
         SPONSOR_CLOSING: "مجاني، بترخيص MIT، ويضم 523 درسًا. شكرًا للرعاة والداعمين الذين يجعلون هذا العمل ممكنًا. [عرض جميع الرعاة والداعمين](BACKERS.md).",
-        SPONSOR_INVITE: "هل ترغب في دعم العمل؟ اطّلع على [خيارات الرعاية](SPONSORS.md)، بما فيها [رعاية الأجهزة](SPONSORS.md#hardware-lab-partner)، أو [قدّم رعايتك عبر GitHub](https://github.com/sponsors/rohitg00).",
+        SPONSOR_INVITE: "هل ترغب في دعم العمل؟ اطّلع على [خيارات الرعاية](SPONSORS.md)، بما فيها [رعاية الأجهزة](SPONSORS.md#hardware-lab-partner)، أو [قدّم رعايتك عبر GitHub](https://github.com/sponsors/code2careerai).",
     },
     "ru": {
         H_SPONSORS: "Спонсоры",
@@ -400,7 +400,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "Ваша поддержка помогает сохранять все уроки бесплатными и открытыми.",
         SEE_SUPPORTERS: "Посмотреть всех сторонников",
         SPONSOR_CLOSING: "Бесплатно, по лицензии MIT, 523 урока. Спасибо спонсорам и сторонникам, благодаря которым эта работа возможна. [Посмотреть всех спонсоров и сторонников](BACKERS.md).",
-        SPONSOR_INVITE: "Хотите поддержать проект? Посмотрите [варианты спонсорства](SPONSORS.md), включая [спонсорство оборудования](SPONSORS.md#hardware-lab-partner), или [станьте спонсором на GitHub](https://github.com/sponsors/rohitg00).",
+        SPONSOR_INVITE: "Хотите поддержать проект? Посмотрите [варианты спонсорства](SPONSORS.md), включая [спонсорство оборудования](SPONSORS.md#hardware-lab-partner), или [станьте спонсором на GitHub](https://github.com/sponsors/code2careerai).",
     },
     "tr": {
         H_SPONSORS: "Sponsorlar",
@@ -409,7 +409,7 @@ SPONSOR_TRANSLATIONS = {
         SPONSOR_SUPPORT: "Desteğiniz her dersin ücretsiz ve açık kaynak kalmasını sağlar.",
         SEE_SUPPORTERS: "Tüm destekçileri görüntüle",
         SPONSOR_CLOSING: "Ücretsiz, MIT lisanslı, 523 ders. Bu çalışmayı mümkün kılan sponsorlara ve destekçilere teşekkür ederiz. [Tüm sponsorları ve destekçileri görüntüle](BACKERS.md).",
-        SPONSOR_INVITE: "Çalışmayı desteklemek ister misiniz? [Sponsorluk seçeneklerini](SPONSORS.md), [donanım sponsorluğunu](SPONSORS.md#hardware-lab-partner) inceleyin veya [GitHub üzerinden sponsor olun](https://github.com/sponsors/rohitg00).",
+        SPONSOR_INVITE: "Çalışmayı desteklemek ister misiniz? [Sponsorluk seçeneklerini](SPONSORS.md), [donanım sponsorluğunu](SPONSORS.md#hardware-lab-partner) inceleyin veya [GitHub üzerinden sponsor olun](https://github.com/sponsors/code2careerai).",
     },
 }
 
@@ -449,7 +449,7 @@ TRANSLATIONS["zh-TW"] = {
     PREFLIGHT: "環境預檢會區分現在必須具備的條件與稍後才需要的工具。每項必要條件若未通過，都會顯示偵測到的原因與修正指令。第二個指令執行一堂不需額外套件的課程，最後會展示矩陣乘以向量就是神經網路層內部的運算。請把這份終端機輸出存成你的第一份證據。",
     WAYS: "三種開始方式，選擇一種。",
     LICENSE_LINE: "MIT 授權。你可以自由分叉、教學、販售或發布。歡迎註明出處，但並非必要。",
-    MAINTAINED: "由 [Rohit Ghumare](https://github.com/rohitg00) 與社群共同維護。",
+    MAINTAINED: "由 [code2careerai](https://github.com/code2careerai) 與社群共同維護。",
     H_HOW: "課程如何進行", H_CURR: "課程架構", H_LESSON: "單堂課的結構",
     H_START: "開始學習", H_PREREQ: "先備知識", H_BOOK: "以書籍形式閱讀",
     H_SHIPS: "每堂課都有成果", H_CONTENTS: "目錄", H_TOOLKIT: "工具組",
@@ -461,7 +461,7 @@ TRANSLATIONS["zh-TW"] = {
     SPONSOR_SUPPORT: "你的支持讓每堂課都能持續免費且開源。",
     SEE_SUPPORTERS: "查看所有支持者",
     SPONSOR_CLOSING: "免費、採用 MIT 授權，共 523 堂課。感謝讓這項工作得以持續的贊助者與支持者。[查看所有贊助者與支持者](BACKERS.md)。",
-    SPONSOR_INVITE: "想支持這項工作？請查看[贊助方案](SPONSORS.md)，包括[硬體贊助](SPONSORS.md#hardware-lab-partner)，或[透過 GitHub 贊助](https://github.com/sponsors/rohitg00)。",
+    SPONSOR_INVITE: "想支持這項工作？請查看[贊助方案](SPONSORS.md)，包括[硬體贊助](SPONSORS.md#hardware-lab-partner)，或[透過 GitHub 贊助](https://github.com/sponsors/code2careerai)。",
 }
 
 TRANSLATIONS["fa"] = {
@@ -494,7 +494,7 @@ TRANSLATIONS["fa"] = {
     PREFLIGHT: "بررسی اولیه، نیازمندی‌های فعلی را از ابزارهایی که بعداً لازم می‌شوند جدا می‌کند. برای هر پیش‌نیاز ضروری که تأیید نشود، دلیل و فرمان اصلاح آن نمایش داده می‌شود. فرمان دوم درسی بدون وابستگی خارجی را اجرا می‌کند و در پایان نشان می‌دهد که ضرب ماتریس در بردار همان عملیاتی است که در یک لایهٔ شبکهٔ عصبی انجام می‌شود. این خروجی ترمینال را به‌عنوان اولین شاهد یادگیری خود ذخیره کنید.",
     WAYS: "سه راه برای شروع دارید. یکی را انتخاب کنید.",
     LICENSE_LINE: "مجوز MIT. هر طور می‌خواهید استفاده کنید: فورک کنید، آموزش دهید، بفروشید یا منتشر کنید. ذکر منبع ارزشمند است، اما الزامی نیست.",
-    MAINTAINED: "با نگهداری [Rohit Ghumare](https://github.com/rohitg00) و جامعهٔ مشارکت‌کنندگان.",
+    MAINTAINED: "با نگهداری [code2careerai](https://github.com/code2careerai) و جامعهٔ مشارکت‌کنندگان.",
     H_HOW: "روش کار این دوره", H_CURR: "ساختار برنامهٔ آموزشی", H_LESSON: "ساختار هر درس",
     H_START: "شروع یادگیری", H_PREREQ: "پیش‌نیازها", H_BOOK: "مطالعه به شکل کتاب",
     H_SHIPS: "هر درس یک خروجی دارد", H_CONTENTS: "فهرست", H_TOOLKIT: "جعبه‌ابزار",
@@ -506,7 +506,7 @@ TRANSLATIONS["fa"] = {
     SPONSOR_SUPPORT: "حمایت شما کمک می‌کند همهٔ درس‌ها رایگان و متن‌باز بمانند.",
     SEE_SUPPORTERS: "دیدن همهٔ حامیان",
     SPONSOR_CLOSING: "رایگان، با مجوز MIT و شامل 523 درس. از حامیان مالی و پشتیبانانی که این کار را ممکن می‌کنند سپاسگزاریم. [دیدن همهٔ حامیان و پشتیبانان](BACKERS.md).",
-    SPONSOR_INVITE: "می‌خواهید حمایت کنید؟ [گزینه‌های حمایت مالی](SPONSORS.md)، از جمله [حمایت سخت‌افزاری](SPONSORS.md#hardware-lab-partner) را ببینید یا [در GitHub حامی شوید](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "می‌خواهید حمایت کنید؟ [گزینه‌های حمایت مالی](SPONSORS.md)، از جمله [حمایت سخت‌افزاری](SPONSORS.md#hardware-lab-partner) را ببینید یا [در GitHub حامی شوید](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["vi"] = {
@@ -539,7 +539,7 @@ TRANSLATIONS["vi"] = {
     PREFLIGHT: "Bước kiểm tra ban đầu phân biệt yêu cầu cần có ngay với công cụ sẽ cần về sau. Mỗi yêu cầu bắt buộc chưa đạt đều đi kèm nguyên nhân được phát hiện và lệnh khắc phục. Lệnh thứ hai chạy một bài học không cần thư viện ngoài, rồi cho thấy phép nhân ma trận với vectơ chính là phép toán bên trong một lớp mạng nơ-ron. Hãy lưu đầu ra terminal đó làm bằng chứng đầu tiên.",
     WAYS: "Ba cách bắt đầu. Chọn một cách.",
     LICENSE_LINE: "Giấy phép MIT. Bạn có thể fork, giảng dạy, bán hoặc phát hành tùy ý. Việc ghi nguồn được trân trọng nhưng không bắt buộc.",
-    MAINTAINED: "Được duy trì bởi [Rohit Ghumare](https://github.com/rohitg00) và cộng đồng.",
+    MAINTAINED: "Được duy trì bởi [code2careerai](https://github.com/code2careerai) và cộng đồng.",
     H_HOW: "Cách chương trình hoạt động", H_CURR: "Cấu trúc chương trình", H_LESSON: "Cấu trúc một bài học",
     H_START: "Bắt đầu học", H_PREREQ: "Kiến thức cần có", H_BOOK: "Đọc dưới dạng sách",
     H_SHIPS: "Mỗi bài học đều có sản phẩm", H_CONTENTS: "Mục lục", H_TOOLKIT: "Bộ công cụ",
@@ -551,7 +551,7 @@ TRANSLATIONS["vi"] = {
     SPONSOR_SUPPORT: "Sự hỗ trợ của bạn giúp mọi bài học luôn miễn phí và mã nguồn mở.",
     SEE_SUPPORTERS: "Xem tất cả người ủng hộ",
     SPONSOR_CLOSING: "Miễn phí, giấy phép MIT, 523 bài học. Cảm ơn các nhà tài trợ và người ủng hộ đã giúp duy trì công việc này. [Xem tất cả nhà tài trợ và người ủng hộ](BACKERS.md).",
-    SPONSOR_INVITE: "Bạn muốn hỗ trợ dự án? Xem [các hình thức tài trợ](SPONSORS.md), bao gồm [tài trợ phần cứng](SPONSORS.md#hardware-lab-partner), hoặc [tài trợ trên GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Bạn muốn hỗ trợ dự án? Xem [các hình thức tài trợ](SPONSORS.md), bao gồm [tài trợ phần cứng](SPONSORS.md#hardware-lab-partner), hoặc [tài trợ trên GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 README_NOTE.update({
@@ -604,7 +604,7 @@ TRANSLATIONS["nl"] = {
     PREFLIGHT: "De voorafgaande controle maakt onderscheid tussen vereisten voor nu en gereedschap voor later. Bij elke mislukte verplichte controle krijg je de gevonden oorzaak en een commando om die te verhelpen. Het tweede commando voert een les zonder afhankelijkheden uit en laat aan het eind zien dat een matrix vermenigvuldigen met een vector de bewerking binnen een neurale netwerklaag is. Bewaar die terminaluitvoer als je eerste bewijs.",
     WAYS: "Drie manieren om te beginnen. Kies er één.",
     LICENSE_LINE: "MIT. Gebruik het zoals je wilt: fork het, geef er les mee, verkoop het of breng het uit. Naamsvermelding wordt gewaardeerd, maar is niet verplicht.",
-    MAINTAINED: "Onderhouden door [Rohit Ghumare](https://github.com/rohitg00) en de community.",
+    MAINTAINED: "Onderhouden door [code2careerai](https://github.com/code2careerai) en de community.",
     H_HOW: "Hoe dit werkt",
     H_CURR: "De opbouw van het leerprogramma",
     H_LESSON: "De opbouw van een les",
@@ -626,7 +626,7 @@ TRANSLATIONS["nl"] = {
     SPONSOR_SUPPORT: "Dankzij jouw steun blijft elke les gratis en open source.",
     SEE_SUPPORTERS: "Bekijk alle supporters",
     SPONSOR_CLOSING: "Gratis, met MIT-licentie, 523 lessen. Dank aan de sponsors en supporters die dit werk mogelijk maken. [Bekijk alle sponsors en supporters](BACKERS.md).",
-    SPONSOR_INVITE: "Wil je het werk steunen? Bekijk de [sponsormogelijkheden](SPONSORS.md), waaronder [hardwaresponsoring](SPONSORS.md#hardware-lab-partner), of [word sponsor op GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Wil je het werk steunen? Bekijk de [sponsormogelijkheden](SPONSORS.md), waaronder [hardwaresponsoring](SPONSORS.md#hardware-lab-partner), of [word sponsor op GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["pl"] = {
@@ -659,7 +659,7 @@ TRANSLATIONS["pl"] = {
     PREFLIGHT: "Kontrola wstępna oddziela wymagania potrzebne teraz od narzędzi potrzebnych później. Każda nieudana kontrola obowiązkowego wymagania podaje wykrytą przyczynę i polecenie naprawcze. Drugie polecenie uruchamia lekcję bez zależności i na końcu pokazuje, że mnożenie macierzy przez wektor jest operacją wykonywaną wewnątrz warstwy sieci neuronowej. Zapisz te wyniki z terminala jako pierwszy dowód działania.",
     WAYS: "Trzy sposoby na początek. Wybierz jeden.",
     LICENSE_LINE: "MIT. Korzystaj, jak chcesz: forkuj, ucz, sprzedawaj i publikuj. Podanie autorstwa jest mile widziane, ale nie jest wymagane.",
-    MAINTAINED: "Projekt utrzymują [Rohit Ghumare](https://github.com/rohitg00) i społeczność.",
+    MAINTAINED: "Projekt utrzymują [code2careerai](https://github.com/code2careerai) i społeczność.",
     H_HOW: "Jak to działa",
     H_CURR: "Struktura programu nauki",
     H_LESSON: "Struktura lekcji",
@@ -681,7 +681,7 @@ TRANSLATIONS["pl"] = {
     SPONSOR_SUPPORT: "Dzięki Twojemu wsparciu każda lekcja pozostaje bezpłatna i dostępna z otwartym kodem.",
     SEE_SUPPORTERS: "Zobacz wszystkich wspierających",
     SPONSOR_CLOSING: "Bezpłatnie, na licencji MIT, 523 lekcje. Dziękujemy sponsorom i osobom wspierającym, dzięki którym ta praca jest możliwa. [Zobacz wszystkich sponsorów i wspierających](BACKERS.md).",
-    SPONSOR_INVITE: "Chcesz wesprzeć projekt? Sprawdź [możliwości sponsoringu](SPONSORS.md), w tym [wsparcie sprzętowe](SPONSORS.md#hardware-lab-partner), lub [zostań sponsorem na GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Chcesz wesprzeć projekt? Sprawdź [możliwości sponsoringu](SPONSORS.md), w tym [wsparcie sprzętowe](SPONSORS.md#hardware-lab-partner), lub [zostań sponsorem na GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["cs"] = {
@@ -714,7 +714,7 @@ TRANSLATIONS["cs"] = {
     PREFLIGHT: "Úvodní kontrola odděluje požadavky potřebné nyní od nástrojů, které budete potřebovat později. Každá neúspěšná povinná kontrola uvede zjištěnou příčinu a příkaz k nápravě. Druhý příkaz spustí lekci bez závislostí a na závěr ukáže, že násobení matice vektorem je operace uvnitř vrstvy neuronové sítě. Uložte si tento výstup terminálu jako první důkaz.",
     WAYS: "Tři možnosti, jak začít. Vyberte si jednu.",
     LICENSE_LINE: "MIT. Používejte podle libosti: vytvořte fork, vyučujte, prodávejte nebo vydávejte. Uvedení autora potěší, ale není povinné.",
-    MAINTAINED: "Spravují [Rohit Ghumare](https://github.com/rohitg00) a komunita.",
+    MAINTAINED: "Spravují [code2careerai](https://github.com/code2careerai) a komunita.",
     H_HOW: "Jak to funguje",
     H_CURR: "Struktura vzdělávacího programu",
     H_LESSON: "Struktura lekce",
@@ -736,7 +736,7 @@ TRANSLATIONS["cs"] = {
     SPONSOR_SUPPORT: "Díky vaší podpoře zůstává každá lekce zdarma a s otevřeným kódem.",
     SEE_SUPPORTERS: "Zobrazit všechny podporovatele",
     SPONSOR_CLOSING: "Zdarma, s licencí MIT, 523 lekcí. Děkujeme sponzorům a podporovatelům, kteří tuto práci umožňují. [Zobrazit všechny sponzory a podporovatele](BACKERS.md).",
-    SPONSOR_INVITE: "Chcete práci podpořit? Podívejte se na [možnosti sponzorství](SPONSORS.md), včetně [hardwarového sponzorství](SPONSORS.md#hardware-lab-partner), nebo [přispějte přes GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Chcete práci podpořit? Podívejte se na [možnosti sponzorství](SPONSORS.md), včetně [hardwarového sponzorství](SPONSORS.md#hardware-lab-partner), nebo [přispějte přes GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["ro"] = {
@@ -769,7 +769,7 @@ TRANSLATIONS["ro"] = {
     PREFLIGHT: "Verificarea inițială separă cerințele necesare acum de instrumentele necesare mai târziu. Fiecare verificare obligatorie eșuată include cauza detectată și o comandă de remediere. A doua comandă rulează o lecție fără dependențe și arată la final că înmulțirea unei matrice cu un vector este operația din interiorul unui strat de rețea neuronală. Salvează acea ieșire din terminal ca primă dovadă.",
     WAYS: "Trei moduri de a începe. Alege unul.",
     LICENSE_LINE: "MIT. Folosește materialul cum dorești: creează un fork, predă-l, vinde-l sau publică-l. Menționarea autorului este apreciată, dar nu este obligatorie.",
-    MAINTAINED: "Întreținut de [Rohit Ghumare](https://github.com/rohitg00) și de comunitate.",
+    MAINTAINED: "Întreținut de [code2careerai](https://github.com/code2careerai) și de comunitate.",
     H_HOW: "Cum funcționează",
     H_CURR: "Structura programului de studiu",
     H_LESSON: "Structura unei lecții",
@@ -791,7 +791,7 @@ TRANSLATIONS["ro"] = {
     SPONSOR_SUPPORT: "Sprijinul tău păstrează fiecare lecție gratuită și cu sursă deschisă.",
     SEE_SUPPORTERS: "Vezi toți susținătorii",
     SPONSOR_CLOSING: "Gratuit, cu licență MIT, 523 de lecții. Mulțumim sponsorilor și susținătorilor care fac posibilă această muncă. [Vezi toți sponsorii și susținătorii](BACKERS.md).",
-    SPONSOR_INVITE: "Vrei să susții proiectul? Vezi [opțiunile de sponsorizare](SPONSORS.md), inclusiv [sponsorizarea cu hardware](SPONSORS.md#hardware-lab-partner), sau [devino sponsor pe GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Vrei să susții proiectul? Vezi [opțiunile de sponsorizare](SPONSORS.md), inclusiv [sponsorizarea cu hardware](SPONSORS.md#hardware-lab-partner), sau [devino sponsor pe GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["hu"] = {
@@ -824,7 +824,7 @@ TRANSLATIONS["hu"] = {
     PREFLIGHT: "Az előzetes ellenőrzés elkülöníti a most szükséges feltételeket a később szükséges eszközöktől. Minden sikertelen kötelező ellenőrzésnél megjelenik az észlelt ok és a javításhoz szükséges parancs. A második parancs egy függőségek nélküli leckét futtat, amely a végén megmutatja, hogy a mátrix és a vektor szorzása a neurális hálózat egy rétegén belüli művelet. Mentsd el ezt a terminálkimenetet első bizonyítékként.",
     WAYS: "Három lehetőség az indulásra. Válassz egyet.",
     LICENSE_LINE: "MIT. Használd tetszés szerint: forkolhatod, taníthatod, eladhatod vagy kiadhatod. A forrás feltüntetését köszönjük, de nem kötelező.",
-    MAINTAINED: "Karbantartja [Rohit Ghumare](https://github.com/rohitg00) és a közösség.",
+    MAINTAINED: "Karbantartja [code2careerai](https://github.com/code2careerai) és a közösség.",
     H_HOW: "Hogyan működik",
     H_CURR: "A tananyag felépítése",
     H_LESSON: "Egy lecke felépítése",
@@ -846,7 +846,7 @@ TRANSLATIONS["hu"] = {
     SPONSOR_SUPPORT: "A támogatásodnak köszönhetően minden lecke ingyenes és nyílt forráskódú marad.",
     SEE_SUPPORTERS: "Összes támogató megtekintése",
     SPONSOR_CLOSING: "Ingyenes, MIT-licencű, 523 lecke. Köszönjük a szponzoroknak és támogatóknak, akik lehetővé teszik ezt a munkát. [Összes szponzor és támogató megtekintése](BACKERS.md).",
-    SPONSOR_INVITE: "Szeretnéd támogatni a munkát? Nézd meg a [támogatási lehetőségeket](SPONSORS.md), köztük a [hardvertámogatást](SPONSORS.md#hardware-lab-partner), vagy [támogass a GitHub felületén](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Szeretnéd támogatni a munkát? Nézd meg a [támogatási lehetőségeket](SPONSORS.md), köztük a [hardvertámogatást](SPONSORS.md#hardware-lab-partner), vagy [támogass a GitHub felületén](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["el"] = {
@@ -879,7 +879,7 @@ TRANSLATIONS["el"] = {
     PREFLIGHT: "Ο αρχικός έλεγχος διαχωρίζει τις απαιτήσεις που χρειάζεσαι τώρα από τα εργαλεία που θα χρειαστείς αργότερα. Κάθε αποτυχία υποχρεωτικού ελέγχου περιλαμβάνει την αιτία που εντοπίστηκε και μια εντολή διόρθωσης. Η δεύτερη εντολή εκτελεί ένα μάθημα χωρίς εξαρτήσεις και στο τέλος δείχνει ότι ο πολλαπλασιασμός πίνακα με διάνυσμα είναι η πράξη μέσα σε ένα επίπεδο νευρωνικού δικτύου. Αποθήκευσε αυτή την έξοδο του τερματικού ως πρώτο τεκμήριο.",
     WAYS: "Τρεις τρόποι να ξεκινήσεις. Διάλεξε έναν.",
     LICENSE_LINE: "MIT. Χρησιμοποίησέ το όπως θέλεις: κάνε fork, δίδαξέ το, πούλησέ το ή κυκλοφόρησέ το. Η αναφορά δημιουργού είναι ευπρόσδεκτη, αλλά δεν απαιτείται.",
-    MAINTAINED: "Συντηρείται από τον [Rohit Ghumare](https://github.com/rohitg00) και την κοινότητα.",
+    MAINTAINED: "Συντηρείται από τον [code2careerai](https://github.com/code2careerai) και την κοινότητα.",
     H_HOW: "Πώς λειτουργεί",
     H_CURR: "Η δομή του προγράμματος σπουδών",
     H_LESSON: "Η δομή ενός μαθήματος",
@@ -901,7 +901,7 @@ TRANSLATIONS["el"] = {
     SPONSOR_SUPPORT: "Η υποστήριξή σου κρατά κάθε μάθημα δωρεάν και με ανοιχτό κώδικα.",
     SEE_SUPPORTERS: "Δες όλους τους υποστηρικτές",
     SPONSOR_CLOSING: "Δωρεάν, με άδεια MIT, 523 μαθήματα. Ευχαριστούμε τους χορηγούς και υποστηρικτές που κάνουν αυτή τη δουλειά εφικτή. [Δες όλους τους χορηγούς και υποστηρικτές](BACKERS.md).",
-    SPONSOR_INVITE: "Θέλεις να στηρίξεις τη δουλειά; Δες τις [επιλογές χορηγίας](SPONSORS.md), όπως τις [χορηγίες υλικού](SPONSORS.md#hardware-lab-partner), ή [γίνε χορηγός στο GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Θέλεις να στηρίξεις τη δουλειά; Δες τις [επιλογές χορηγίας](SPONSORS.md), όπως τις [χορηγίες υλικού](SPONSORS.md#hardware-lab-partner), ή [γίνε χορηγός στο GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["sv"] = {
@@ -934,7 +934,7 @@ TRANSLATIONS["sv"] = {
     PREFLIGHT: "Förkontrollen skiljer kraven som behövs nu från verktygen som behövs senare. Varje obligatoriskt krav som inte uppfylls visas med den upptäckta orsaken och ett kommando som åtgärdar problemet. Det andra kommandot kör en lektion utan externa beroenden och avslutar med att visa att en matris multiplicerad med en vektor är operationen inuti ett neuralt nätverkslager. Spara terminalutdata som ditt första belägg.",
     WAYS: "Tre sätt att börja. Välj ett.",
     LICENSE_LINE: "MIT. Använd materialet som du vill: förgrena det, undervisa med det, sälj det eller publicera det. Källangivelse uppskattas men krävs inte.",
-    MAINTAINED: "Underhålls av [Rohit Ghumare](https://github.com/rohitg00) och gemenskapen.",
+    MAINTAINED: "Underhålls av [code2careerai](https://github.com/code2careerai) och gemenskapen.",
     H_HOW: "Så här fungerar det",
     H_CURR: "Läroplanens upplägg",
     H_LESSON: "Lektionernas upplägg",
@@ -956,7 +956,7 @@ TRANSLATIONS["sv"] = {
     SPONSOR_SUPPORT: "Ditt stöd håller varje lektion gratis och med öppen källkod.",
     SEE_SUPPORTERS: "Se alla som stöder projektet",
     SPONSOR_CLOSING: "Gratis, MIT-licensierat, 523 lektioner. Tack till sponsorerna och stödjarna som gör arbetet möjligt. [Se alla sponsorer och stödjare](BACKERS.md).",
-    SPONSOR_INVITE: "Vill du stödja arbetet? Se [sponsringsalternativen](SPONSORS.md), inklusive [hårdvarusponsring](SPONSORS.md#hardware-lab-partner), eller [sponsra på GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Vill du stödja arbetet? Se [sponsringsalternativen](SPONSORS.md), inklusive [hårdvarusponsring](SPONSORS.md#hardware-lab-partner), eller [sponsra på GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["da"] = {
@@ -989,7 +989,7 @@ TRANSLATIONS["da"] = {
     PREFLIGHT: "Det indledende tjek skelner mellem krav, du skal opfylde nu, og værktøjer, du får brug for senere. Hvert obligatorisk krav, der ikke er opfyldt, vises med den fundne årsag og en kommando til at rette problemet. Den anden kommando kører en lektion uden eksterne afhængigheder og viser til sidst, at en matrix ganget med en vektor er operationen inde i et neuralt netværkslag. Gem terminaloutputtet som din første dokumentation.",
     WAYS: "Tre måder at starte på. Vælg én.",
     LICENSE_LINE: "MIT. Brug materialet, som du vil: forgren det, undervis med det, sælg det eller udgiv det. Kildeangivelse værdsættes, men er ikke påkrævet.",
-    MAINTAINED: "Vedligeholdes af [Rohit Ghumare](https://github.com/rohitg00) og fællesskabet.",
+    MAINTAINED: "Vedligeholdes af [code2careerai](https://github.com/code2careerai) og fællesskabet.",
     H_HOW: "Sådan fungerer det",
     H_CURR: "Pensummets opbygning",
     H_LESSON: "Lektionernes opbygning",
@@ -1011,7 +1011,7 @@ TRANSLATIONS["da"] = {
     SPONSOR_SUPPORT: "Din støtte holder hver lektion gratis og open source.",
     SEE_SUPPORTERS: "Se alle støtter",
     SPONSOR_CLOSING: "Gratis, MIT-licenseret, 523 lektioner. Tak til sponsorerne og støtterne, der gør arbejdet muligt. [Se alle sponsorer og støtter](BACKERS.md).",
-    SPONSOR_INVITE: "Vil du støtte arbejdet? Se [mulighederne for sponsorater](SPONSORS.md), herunder [hardwaresponsorater](SPONSORS.md#hardware-lab-partner), eller [støt via GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Vil du støtte arbejdet? Se [mulighederne for sponsorater](SPONSORS.md), herunder [hardwaresponsorater](SPONSORS.md#hardware-lab-partner), eller [støt via GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["no"] = {
@@ -1044,7 +1044,7 @@ TRANSLATIONS["no"] = {
     PREFLIGHT: "Forhåndssjekken skiller krav som må være oppfylt nå, fra verktøy du trenger senere. Hvert obligatorisk krav som ikke er oppfylt, vises med den oppdagede årsaken og en kommando som retter problemet. Den andre kommandoen kjører en leksjon uten eksterne avhengigheter og viser til slutt at en matrise ganget med en vektor er operasjonen inne i et nevralt nettverkslag. Lagre terminalutdataene som din første dokumentasjon.",
     WAYS: "Tre måter å begynne på. Velg én.",
     LICENSE_LINE: "MIT. Bruk materialet som du vil: forgren det, undervis med det, selg det eller publiser det. Kildehenvisning settes pris på, men er ikke påkrevd.",
-    MAINTAINED: "Vedlikeholdes av [Rohit Ghumare](https://github.com/rohitg00) og fellesskapet.",
+    MAINTAINED: "Vedlikeholdes av [code2careerai](https://github.com/code2careerai) og fellesskapet.",
     H_HOW: "Slik fungerer det",
     H_CURR: "Læreplanens oppbygning",
     H_LESSON: "Leksjonenes oppbygning",
@@ -1066,7 +1066,7 @@ TRANSLATIONS["no"] = {
     SPONSOR_SUPPORT: "Støtten din holder hver leksjon gratis og med åpen kildekode.",
     SEE_SUPPORTERS: "Se alle støttespillere",
     SPONSOR_CLOSING: "Gratis, MIT-lisensiert, 523 leksjoner. Takk til sponsorene og støttespillerne som gjør arbeidet mulig. [Se alle sponsorer og støttespillere](BACKERS.md).",
-    SPONSOR_INVITE: "Vil du støtte arbeidet? Se [sponsoralternativene](SPONSORS.md), inkludert [sponsing av maskinvare](SPONSORS.md#hardware-lab-partner), eller [støtt via GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Vil du støtte arbeidet? Se [sponsoralternativene](SPONSORS.md), inkludert [sponsing av maskinvare](SPONSORS.md#hardware-lab-partner), eller [støtt via GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["fi"] = {
@@ -1099,7 +1099,7 @@ TRANSLATIONS["fi"] = {
     PREFLIGHT: "Ennakkotarkistus erottaa heti tarvittavat vaatimukset myöhemmin tarvittavista työkaluista. Jokaisen täyttymättä jääneen pakollisen vaatimuksen yhteydessä näytetään havaittu syy ja korjaava komento. Toinen komento suorittaa oppitunnin ilman ulkoisia riippuvuuksia ja näyttää lopuksi, että matriisin kertominen vektorilla on neuroverkon kerroksen sisällä tehtävä laskutoimitus. Tallenna päätteen tuloste ensimmäiseksi todisteeksesi.",
     WAYS: "Kolme tapaa aloittaa. Valitse yksi.",
     LICENSE_LINE: "MIT. Käytä materiaalia miten haluat: haarauta, opeta, myy tai julkaise. Lähteen mainitseminen on suotavaa, mutta ei pakollista.",
-    MAINTAINED: "Ylläpidosta vastaavat [Rohit Ghumare](https://github.com/rohitg00) ja yhteisö.",
+    MAINTAINED: "Ylläpidosta vastaavat [code2careerai](https://github.com/code2careerai) ja yhteisö.",
     H_HOW: "Näin tämä toimii",
     H_CURR: "Opetussuunnitelman rakenne",
     H_LESSON: "Oppitunnin rakenne",
@@ -1121,7 +1121,7 @@ TRANSLATIONS["fi"] = {
     SPONSOR_SUPPORT: "Tukesi pitää jokaisen oppitunnin maksuttomana ja avoimena lähdekoodina.",
     SEE_SUPPORTERS: "Katso kaikki tukijat",
     SPONSOR_CLOSING: "Maksuton, MIT-lisensoitu, 523 oppituntia. Kiitos sponsoreille ja tukijoille, jotka mahdollistavat tämän työn. [Katso kaikki sponsorit ja tukijat](BACKERS.md).",
-    SPONSOR_INVITE: "Haluatko tukea työtä? Tutustu [sponsorointivaihtoehtoihin](SPONSORS.md), kuten [laitteistosponsorointiin](SPONSORS.md#hardware-lab-partner), tai [sponsoroi GitHubissa](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Haluatko tukea työtä? Tutustu [sponsorointivaihtoehtoihin](SPONSORS.md), kuten [laitteistosponsorointiin](SPONSORS.md#hardware-lab-partner), tai [sponsoroi GitHubissa](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["uk"] = {
@@ -1154,7 +1154,7 @@ TRANSLATIONS["uk"] = {
     PREFLIGHT: "Попередня перевірка відокремлює вимоги, потрібні зараз, від інструментів, які знадобляться пізніше. Для кожної невиконаної обов’язкової вимоги наведено виявлену причину та команду для виправлення. Друга команда запускає урок без зовнішніх залежностей і наприкінці показує, що множення матриці на вектор є операцією всередині шару нейронної мережі. Збережіть цей вивід термінала як перший доказ.",
     WAYS: "Три способи почати. Виберіть один.",
     LICENSE_LINE: "MIT. Використовуйте як завгодно: робіть форки, викладайте, продавайте або публікуйте. Зазначення авторства вітається, але не є обов’язковим.",
-    MAINTAINED: "Підтримують [Rohit Ghumare](https://github.com/rohitg00) і спільнота.",
+    MAINTAINED: "Підтримують [code2careerai](https://github.com/code2careerai) і спільнота.",
     H_HOW: "Як це працює",
     H_CURR: "Структура навчальної програми",
     H_LESSON: "Структура уроку",
@@ -1176,7 +1176,7 @@ TRANSLATIONS["uk"] = {
     SPONSOR_SUPPORT: "Ваша підтримка зберігає кожен урок безкоштовним і з відкритим кодом.",
     SEE_SUPPORTERS: "Переглянути всіх, хто підтримує проєкт",
     SPONSOR_CLOSING: "Безкоштовно, за ліцензією MIT, 523 уроки. Дякуємо спонсорам і доброчинцям, завдяки яким ця робота можлива. [Переглянути всіх спонсорів і доброчинців](BACKERS.md).",
-    SPONSOR_INVITE: "Хочете підтримати роботу? Перегляньте [варіанти спонсорства](SPONSORS.md), зокрема [спонсорство обладнання](SPONSORS.md#hardware-lab-partner), або [станьте спонсором на GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Хочете підтримати роботу? Перегляньте [варіанти спонсорства](SPONSORS.md), зокрема [спонсорство обладнання](SPONSORS.md#hardware-lab-partner), або [станьте спонсором на GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["he"] = {
@@ -1209,7 +1209,7 @@ TRANSLATIONS["he"] = {
     PREFLIGHT: "הבדיקה המקדימה מבדילה בין דרישות שצריך למלא עכשיו לבין כלים שיידרשו בהמשך. לכל דרישת חובה שלא מתקיימת מוצגות הסיבה שזוהתה ופקודה לתיקון. הפקודה השנייה מריצה שיעור ללא תלויות חיצוניות, ובסופו מראה שכפל מטריצה בווקטור הוא הפעולה שמתרחשת בתוך שכבה של רשת עצבית. שמרו את פלט המסוף הזה כראיה הראשונה שלכם.",
     WAYS: "שלוש דרכים להתחיל. בחרו אחת.",
     LICENSE_LINE: "MIT. השתמשו בחומר כרצונכם: צרו פיצול, למדו בעזרתו, מכרו או פרסמו אותו. ציון המקור מוערך אך אינו חובה.",
-    MAINTAINED: "מתוחזק בידי [Rohit Ghumare](https://github.com/rohitg00) והקהילה.",
+    MAINTAINED: "מתוחזק בידי [code2careerai](https://github.com/code2careerai) והקהילה.",
     H_HOW: "איך זה עובד",
     H_CURR: "מבנה תוכנית הלימודים",
     H_LESSON: "מבנה השיעור",
@@ -1231,7 +1231,7 @@ TRANSLATIONS["he"] = {
     SPONSOR_SUPPORT: "התמיכה שלכם שומרת על כל שיעור חינמי ובקוד פתוח.",
     SEE_SUPPORTERS: "הצגת כל התומכים",
     SPONSOR_CLOSING: "בחינם, ברישיון MIT, 523 שיעורים. תודה לנותני החסות ולתומכים שמאפשרים את העבודה. [הצגת כל נותני החסות והתומכים](BACKERS.md).",
-    SPONSOR_INVITE: "רוצים לתמוך בעבודה? עיינו ב[אפשרויות החסות](SPONSORS.md), כולל [חסויות חומרה](SPONSORS.md#hardware-lab-partner), או [תמכו דרך GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "רוצים לתמוך בעבודה? עיינו ב[אפשרויות החסות](SPONSORS.md), כולל [חסויות חומרה](SPONSORS.md#hardware-lab-partner), או [תמכו דרך GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["bn"] = {
@@ -1264,7 +1264,7 @@ TRANSLATIONS["bn"] = {
     PREFLIGHT: "প্রাথমিক পরীক্ষা এখনকার প্রয়োজনীয় শর্ত আর পরের জন্য দরকারি টুল আলাদা করে। আবশ্যিক পরীক্ষায় ব্যর্থ হলে শনাক্ত কারণ ও সংশোধনের কমান্ড দেখানো হয়। দ্বিতীয় কমান্ডটি বাহ্যিক নির্ভরতা ছাড়া একটি পাঠ চালায় এবং শেষে দেখায় যে ম্যাট্রিক্স ও ভেক্টরের গুণই নিউরাল নেটওয়ার্কের একটি স্তরের ভেতরের কাজ। প্রথম প্রমাণ হিসেবে টার্মিনালের সেই আউটপুট সংরক্ষণ করুন।",
     WAYS: "শুরু করার তিনটি উপায়। একটি বেছে নিন।",
     LICENSE_LINE: "MIT। যেভাবে চান ব্যবহার করুন: ফর্ক করুন, শেখান, বিক্রি করুন, প্রকাশ করুন। কৃতিত্ব দিলে ভালো, তবে বাধ্যতামূলক নয়।",
-    MAINTAINED: "[Rohit Ghumare](https://github.com/rohitg00) ও কমিউনিটি এটি রক্ষণাবেক্ষণ করেন।",
+    MAINTAINED: "[code2careerai](https://github.com/code2careerai) ও কমিউনিটি এটি রক্ষণাবেক্ষণ করেন।",
     H_HOW: "যেভাবে কাজ করে",
     H_CURR: "পাঠক্রমের কাঠামো",
     H_LESSON: "একটি পাঠের কাঠামো",
@@ -1286,7 +1286,7 @@ TRANSLATIONS["bn"] = {
     SPONSOR_SUPPORT: "আপনাদের সহায়তায় প্রতিটি পাঠ বিনামূল্যে ও ওপেন সোর্স থাকে।",
     SEE_SUPPORTERS: "সব সমর্থককে দেখুন",
     SPONSOR_CLOSING: "বিনামূল্যে, MIT লাইসেন্সে, 523টি পাঠ। যেসব পৃষ্ঠপোষক ও সমর্থক এই কাজ সম্ভব করেন, তাঁদের ধন্যবাদ। [সব পৃষ্ঠপোষক ও সমর্থককে দেখুন](BACKERS.md)।",
-    SPONSOR_INVITE: "এই কাজে সহায়তা করতে চান? [হার্ডওয়্যার পৃষ্ঠপোষকতা](SPONSORS.md#hardware-lab-partner)-সহ [পৃষ্ঠপোষকতার বিকল্পগুলো](SPONSORS.md) দেখুন, অথবা [GitHub-এ পৃষ্ঠপোষক হোন](https://github.com/sponsors/rohitg00)।",
+    SPONSOR_INVITE: "এই কাজে সহায়তা করতে চান? [হার্ডওয়্যার পৃষ্ঠপোষকতা](SPONSORS.md#hardware-lab-partner)-সহ [পৃষ্ঠপোষকতার বিকল্পগুলো](SPONSORS.md) দেখুন, অথবা [GitHub-এ পৃষ্ঠপোষক হোন](https://github.com/sponsors/code2careerai)।",
 }
 
 TRANSLATIONS["ur"] = {
@@ -1319,7 +1319,7 @@ TRANSLATIONS["ur"] = {
     PREFLIGHT: "ابتدائی جانچ ابھی کے ضروری تقاضوں کو بعد میں درکار ٹولز سے الگ کرتی ہے۔ ہر لازمی جانچ میں ناکامی کی وجہ اور اصلاحی کمانڈ دکھائی جاتی ہے۔ دوسری کمانڈ بیرونی انحصارات کے بغیر ایک سبق چلاتی ہے اور آخر میں دکھاتی ہے کہ میٹرکس اور ویکٹر کی ضرب ہی نیورل نیٹ ورک کی ایک پرت کے اندر ہونے والا عمل ہے۔ ٹرمینل کے اس آؤٹ پٹ کو اپنے پہلے ثبوت کے طور پر محفوظ کریں۔",
     WAYS: "شروع کرنے کے تین طریقے۔ ایک چنیں۔",
     LICENSE_LINE: "MIT۔ جیسے چاہیں استعمال کریں: فورک کریں، پڑھائیں، بیچیں یا جاری کریں۔ نام دینے کی قدر کی جاتی ہے، مگر یہ لازم نہیں۔",
-    MAINTAINED: "[Rohit Ghumare](https://github.com/rohitg00) اور کمیونٹی اس کی دیکھ بھال کرتے ہیں۔",
+    MAINTAINED: "[code2careerai](https://github.com/code2careerai) اور کمیونٹی اس کی دیکھ بھال کرتے ہیں۔",
     H_HOW: "یہ کیسے کام کرتا ہے",
     H_CURR: "نصاب کی ساخت",
     H_LESSON: "سبق کی ساخت",
@@ -1341,7 +1341,7 @@ TRANSLATIONS["ur"] = {
     SPONSOR_SUPPORT: "آپ کی مدد سے ہر سبق مفت اور اوپن سورس رہتا ہے۔",
     SEE_SUPPORTERS: "تمام معاونین دیکھیں",
     SPONSOR_CLOSING: "مفت، MIT لائسنس کے تحت، 523 اسباق۔ ان سرپرستوں اور معاونین کا شکریہ جن سے یہ کام ممکن ہوتا ہے۔ [تمام سرپرست اور معاونین دیکھیں](BACKERS.md)۔",
-    SPONSOR_INVITE: "اس کام کی مدد کرنا چاہتے ہیں؟ [سرپرستی کے اختیارات](SPONSORS.md) دیکھیں، جن میں [ہارڈویئر کی سرپرستی](SPONSORS.md#hardware-lab-partner) بھی شامل ہے، یا [GitHub پر سرپرست بنیں](https://github.com/sponsors/rohitg00)۔",
+    SPONSOR_INVITE: "اس کام کی مدد کرنا چاہتے ہیں؟ [سرپرستی کے اختیارات](SPONSORS.md) دیکھیں، جن میں [ہارڈویئر کی سرپرستی](SPONSORS.md#hardware-lab-partner) بھی شامل ہے، یا [GitHub پر سرپرست بنیں](https://github.com/sponsors/code2careerai)۔",
 }
 
 TRANSLATIONS["th"] = {
@@ -1374,7 +1374,7 @@ TRANSLATIONS["th"] = {
     PREFLIGHT: "การตรวจสอบก่อนเริ่มแยกสิ่งที่จำเป็นตอนนี้ออกจากเครื่องมือที่ต้องใช้ภายหลัง ทุกข้อบังคับที่ตรวจสอบไม่ผ่านจะแสดงสาเหตุที่พบและคำสั่งแก้ไข คำสั่งที่สองรันบทเรียนที่ไม่ต้องติดตั้งแพ็กเกจเพิ่มเติม และจบด้วยการแสดงว่าการคูณเมทริกซ์กับเวกเตอร์คือการทำงานภายในชั้นของโครงข่ายประสาท เก็บผลลัพธ์ในเทอร์มินัลนั้นไว้เป็นหลักฐานชิ้นแรก",
     WAYS: "เริ่มได้สามวิธี เลือกหนึ่งวิธี",
     LICENSE_LINE: "MIT ใช้ได้ตามต้องการ: ฟอร์ก สอน ขาย หรือเผยแพร่ ขอบคุณหากให้เครดิต แต่ไม่ได้บังคับ",
-    MAINTAINED: "ดูแลโดย [Rohit Ghumare](https://github.com/rohitg00) และชุมชน",
+    MAINTAINED: "ดูแลโดย [code2careerai](https://github.com/code2careerai) และชุมชน",
     H_HOW: "หลักสูตรนี้ทำงานอย่างไร",
     H_CURR: "โครงสร้างหลักสูตร",
     H_LESSON: "โครงสร้างบทเรียน",
@@ -1396,7 +1396,7 @@ TRANSLATIONS["th"] = {
     SPONSOR_SUPPORT: "การสนับสนุนของคุณช่วยให้ทุกบทเรียนยังคงฟรีและเป็นโอเพนซอร์ส",
     SEE_SUPPORTERS: "ดูผู้สนับสนุนทั้งหมด",
     SPONSOR_CLOSING: "ฟรี ภายใต้สัญญาอนุญาต MIT จำนวน 523 บทเรียน ขอบคุณผู้สนับสนุนและผู้ให้ทุนที่ทำให้งานนี้เป็นไปได้ [ดูผู้สนับสนุนและผู้ให้ทุนทั้งหมด](BACKERS.md)",
-    SPONSOR_INVITE: "ต้องการสนับสนุนงานนี้? ดู[ตัวเลือกการสนับสนุน](SPONSORS.md) รวมถึง[การสนับสนุนฮาร์ดแวร์](SPONSORS.md#hardware-lab-partner) หรือ[สนับสนุนผ่าน GitHub](https://github.com/sponsors/rohitg00)",
+    SPONSOR_INVITE: "ต้องการสนับสนุนงานนี้? ดู[ตัวเลือกการสนับสนุน](SPONSORS.md) รวมถึง[การสนับสนุนฮาร์ดแวร์](SPONSORS.md#hardware-lab-partner) หรือ[สนับสนุนผ่าน GitHub](https://github.com/sponsors/code2careerai)",
 }
 
 TRANSLATIONS["id"] = {
@@ -1429,7 +1429,7 @@ TRANSLATIONS["id"] = {
     PREFLIGHT: "Pemeriksaan awal memisahkan persyaratan yang dibutuhkan sekarang dari alat yang diperlukan nanti. Setiap kegagalan pemeriksaan wajib menyertakan penyebab yang terdeteksi dan perintah perbaikan. Perintah kedua menjalankan pelajaran tanpa dependensi tambahan dan diakhiri dengan menunjukkan bahwa perkalian matriks dengan vektor adalah operasi di dalam lapisan jaringan saraf. Simpan keluaran terminal itu sebagai bukti pertama Anda.",
     WAYS: "Tiga cara untuk mulai. Pilih satu.",
     LICENSE_LINE: "MIT. Gunakan sesuka Anda: buat fork, ajarkan, jual, atau rilis. Pencantuman kredit dihargai, tetapi tidak diwajibkan.",
-    MAINTAINED: "Dikelola oleh [Rohit Ghumare](https://github.com/rohitg00) dan komunitas.",
+    MAINTAINED: "Dikelola oleh [code2careerai](https://github.com/code2careerai) dan komunitas.",
     H_HOW: "Cara kerjanya",
     H_CURR: "Struktur kurikulum",
     H_LESSON: "Struktur pelajaran",
@@ -1451,7 +1451,7 @@ TRANSLATIONS["id"] = {
     SPONSOR_SUPPORT: "Dukungan Anda menjaga setiap pelajaran tetap gratis dan bersumber terbuka.",
     SEE_SUPPORTERS: "Lihat semua pendukung",
     SPONSOR_CLOSING: "Gratis, berlisensi MIT, 523 pelajaran. Terima kasih kepada sponsor dan pendukung yang memungkinkan pekerjaan ini. [Lihat semua sponsor dan pendukung](BACKERS.md).",
-    SPONSOR_INVITE: "Ingin mendukung pekerjaan ini? Lihat [pilihan sponsorship](SPONSORS.md), termasuk [sponsorship perangkat keras](SPONSORS.md#hardware-lab-partner), atau [jadilah sponsor di GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Ingin mendukung pekerjaan ini? Lihat [pilihan sponsorship](SPONSORS.md), termasuk [sponsorship perangkat keras](SPONSORS.md#hardware-lab-partner), atau [jadilah sponsor di GitHub](https://github.com/sponsors/code2careerai).",
 }
 
 TRANSLATIONS["tl"] = {
@@ -1484,7 +1484,7 @@ TRANSLATIONS["tl"] = {
     PREFLIGHT: "Inihihiwalay ng paunang pagsusuri ang mga kinakailangan ngayon sa mga tool na kakailanganin sa susunod. Bawat hindi pumasa na kinakailangang pagsusuri ay may natukoy na dahilan at command para ayusin ito. Ang ikalawang command ay nagpapatakbo ng araling walang dagdag na dependency at nagtatapos sa pagpapakitang ang pag-multiply ng matrix at vector ang operasyon sa loob ng isang layer ng neural network. Itabi ang output na iyon sa terminal bilang una mong ebidensiya.",
     WAYS: "Tatlong paraan para magsimula. Pumili ng isa.",
     LICENSE_LINE: "MIT. Gamitin ayon sa gusto mo: i-fork, ituro, ibenta, o ilabas. Pinahahalagahan ang pagkilala sa may-akda, pero hindi ito kailangan.",
-    MAINTAINED: "Pinananatili ni [Rohit Ghumare](https://github.com/rohitg00) at ng komunidad.",
+    MAINTAINED: "Pinananatili ni [code2careerai](https://github.com/code2careerai) at ng komunidad.",
     H_HOW: "Paano ito gumagana",
     H_CURR: "Estruktura ng kurikulum",
     H_LESSON: "Estruktura ng isang aralin",
@@ -1506,5 +1506,5 @@ TRANSLATIONS["tl"] = {
     SPONSOR_SUPPORT: "Dahil sa suporta mo, nananatiling libre at open source ang bawat aralin.",
     SEE_SUPPORTERS: "Tingnan ang lahat ng sumusuporta",
     SPONSOR_CLOSING: "Libre, may lisensiyang MIT, 523 aralin. Salamat sa mga sponsor at tagasuportang ginagawang posible ang gawaing ito. [Tingnan ang lahat ng sponsor at tagasuporta](BACKERS.md).",
-    SPONSOR_INVITE: "Gustong suportahan ang gawaing ito? Tingnan ang [mga opsiyon sa sponsorship](SPONSORS.md), kasama ang [sponsorship ng hardware](SPONSORS.md#hardware-lab-partner), o [maging sponsor sa GitHub](https://github.com/sponsors/rohitg00).",
+    SPONSOR_INVITE: "Gustong suportahan ang gawaing ito? Tingnan ang [mga opsiyon sa sponsorship](SPONSORS.md), kasama ang [sponsorship ng hardware](SPONSORS.md#hardware-lab-partner), o [maging sponsor sa GitHub](https://github.com/sponsors/code2careerai).",
 }

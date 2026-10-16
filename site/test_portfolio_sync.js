@@ -4,9 +4,9 @@ const path = require('node:path');
 const test = require('node:test');
 const { createPortfolioSource, validateFeed } = require('./portfolio-source');
 
-const item = { id: '/blog/example/', url: 'https://rohitghumare.com/blog/example/', kind: 'blog', title: 'An example', description: 'A practical example', datePublished: '2026-10-08' };
-const guide = { id: '/guides/example/', url: 'https://rohitghumare.com/guides/example/', kind: 'guide', title: 'A guide', description: 'An undated walkthrough' };
-function feed(items = [item, guide]) { return { version: 1, homeUrl: 'https://rohitghumare.com', items }; }
+const item = { id: '/blog/example/', url: 'https://code2careerai.com/blog/example/', kind: 'blog', title: 'An example', description: 'A practical example', datePublished: '2026-10-08' };
+const guide = { id: '/guides/example/', url: 'https://code2careerai.com/guides/example/', kind: 'guide', title: 'A guide', description: 'An undated walkthrough' };
+function feed(items = [item, guide]) { return { version: 1, homeUrl: 'https://code2careerai.com', items }; }
 function json(value) { return new Response(JSON.stringify(value), { headers: { 'Content-Type': 'application/json' } }); }
 
 test('feed supports undated guides and rejects off-origin, duplicate, mismatched and traversal entries', () => {
@@ -25,7 +25,7 @@ test('cache coalesces requests and refreshes source edits, additions, and remova
   let calls = 0;
   const source = createPortfolioSource({ now: () => now, ttl: 100, fetchImpl: async (url, options) => {
     calls++;
-    assert.equal(url, 'https://rohitghumare.com/api/content');
+    assert.equal(url, 'https://code2careerai.com/api/content');
     assert.equal(options.redirect, 'error');
     assert.ok(options.signal);
     return json(feed(entries));
@@ -70,7 +70,7 @@ test('reading the entire catalog cannot evict the feed needed during an outage',
   await source.getFeed();
   for (let index = 0; index < 80; index++) {
     const id = `/blog/post-${index}/`;
-    await source.getArticle({ id, url: 'https://rohitghumare.com' + id });
+    await source.getArticle({ id, url: 'https://code2careerai.com' + id });
   }
   offline = true;
   now = 101;
@@ -123,7 +123,7 @@ test('collection is server-rendered, escapes metadata, and sends readers to loca
   assert.match(result.body, /href="\/guides\/example\/"/);
   assert.match(result.body, /&lt;script&gt;bad&lt;\/script&gt;/);
   assert.match(result.body, /A &amp; B/);
-  assert.doesNotMatch(result.body, /rohitghumare\.com|Writing is temporarily unavailable/);
+  assert.doesNotMatch(result.body, /code2careerai\.com|Writing is temporarily unavailable/);
   assert.match(result.body, /rel="canonical" href="https:\/\/aiengineeringfromscratch\.com\/blogs"/);
   assert.match(result.headers['cache-control'], /s-maxage=300/);
   const head = await invoke(handler, { method: 'HEAD' });
@@ -143,7 +143,7 @@ test('article reader preserves interactive content and original canonical while 
   const result = await invoke(handler, { url: item.id, query: { path: guide.id } });
   assert.equal(result.status, 200);
   assert.match(result.body, /Full article text/);
-  assert.match(result.body, /rel="canonical" href="https:\/\/rohitghumare\.com\/blog\/example\/"/);
+  assert.match(result.body, /rel="canonical" href="https:\/\/code2careerai\.com\/blog\/example\/"/);
   assert.match(result.body, /href="\/guides\/example\/"/);
   assert.match(result.body, /this.textContent='Played'/);
 });
@@ -165,7 +165,7 @@ test('missing and invalid paths never fetch arbitrary articles; failures and met
   const result = await invoke(failing);
   assert.equal(result.status, 503);
   assert.equal(result.headers['x-robots-tag'], 'noindex');
-  assert.doesNotMatch(result.body, /fixture outage|rohitghumare/);
+  assert.doesNotMatch(result.body, /fixture outage|code2careerai/);
 });
 
 test('writing routes precede static files and package the collection template', () => {

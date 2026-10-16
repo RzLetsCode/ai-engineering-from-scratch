@@ -4,7 +4,7 @@ const { createPortfolioSource } = require('./portfolio-source');
 
 const item = {
   id: '/blog/example/',
-  url: 'https://rohitghumare.com/blog/example/',
+  url: 'https://code2careerai.com/blog/example/',
   kind: 'blog',
   title: 'An example',
   description: 'A practical example',
@@ -17,7 +17,7 @@ test('failed feed refreshes back off for 30 seconds and retry after the deadline
   const source = createPortfolioSource({ now: () => now, ttl: 100, staleTtl: 120000, fetchImpl: async () => {
     calls++;
     if (offline) throw new Error('offline');
-    return new Response(JSON.stringify({ version: 1, homeUrl: 'https://rohitghumare.com', items: [item] }), {
+    return new Response(JSON.stringify({ version: 1, homeUrl: 'https://code2careerai.com', items: [item] }), {
       headers: { 'Content-Type': 'application/json' },
     });
   } });

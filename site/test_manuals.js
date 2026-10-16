@@ -365,7 +365,7 @@ test('print and web editions carry the author, license, and colophon', () => {
   const { dir } = fixture();
   const manual = manuals.loadManual(dir);
   const print = manuals.printPage(manual);
-  assert.match(print, /<meta name="author" content="Rohit Ghumare">/);
+  assert.match(print, /<meta name="author" content="code2careerai">/);
   assert.match(print, /<span class="m-kicker m-copy">© 2026 code2careerai· MIT license<\/span>/);
   assert.match(print, /class="m-cover-edition"/);
   assert.match(print, /id="colophon"/);

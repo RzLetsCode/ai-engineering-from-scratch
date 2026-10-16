@@ -17,7 +17,7 @@
   "youWillBuild": "Static service directory and source-backed ownership lookup JSON",
   "author": {
     "name": "AI Engineering from Scratch",
-    "github": "rohitg00"
+    "github": "code2careerai"
   },
   "languageWhy": {
     "TypeScript": "Typed local transformations and portable browser interfaces run with Node standard libraries."

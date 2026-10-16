@@ -1,10 +1,10 @@
 # Blogs and guides sync
 
-The `/blogs` collection and `/blog/<slug>/` and `/guides/<slug>/` readers render full published articles on AI Engineering from Scratch. Interactive figures and inline article scripts are preserved. Related articles, collection navigation, and search stay on the course site. Each article retains its original `https://rohitghumare.com/...` canonical URL; the collection has its own course canonical.
+The `/blogs` collection and `/blog/<slug>/` and `/guides/<slug>/` readers render full published articles on AI Engineering from Scratch. Interactive figures and inline article scripts are preserved. Related articles, collection navigation, and search stay on the course site. Each article retains its original `https://code2careerai.com/...` canonical URL; the collection has its own course canonical.
 
 ## Publishing
 
-Publish and edit content in `rohitg00/portfolio` using its normal sitemap and page metadata workflow. Its public `/api/content` endpoint derives the collection from published pages. The course fetches this feed and the original article HTML on demand. No second content list, scheduled commit, webhook secret, or course rebuild is required.
+Publish and edit content in `code2careerai/portfolio` using its normal sitemap and page metadata workflow. Its public `/api/content` endpoint derives the collection from published pages. The course fetches this feed and the original article HTML on demand. No second content list, scheduled commit, webhook secret, or course rebuild is required.
 
 Both services cache for five minutes, so changes propagate over several minutes rather than immediately. The course coalesces concurrent requests and bounds article response sizes and its in-process cache. A warm process can serve previously validated content during a source outage for up to 24 hours, with a shorter CDN cache. Cold starts return an uncached 503 recovery page when the source is unavailable. Removed items return 404 after the feed refreshes.
 

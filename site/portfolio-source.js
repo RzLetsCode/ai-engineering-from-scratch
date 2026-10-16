@@ -1,6 +1,6 @@
 const { readBounded } = require('../lib/read-bounded');
 
-const SOURCE = 'https://rohitghumare.com';
+const SOURCE = 'https://code2careerai.com';
 const ARTICLE_PATH = /^\/(blog|guides)\/[a-z0-9][a-z0-9-]*\/$/;
 const TTL = 5 * 60 * 1000;
 const RETRY_BACKOFF = 30 * 1000;

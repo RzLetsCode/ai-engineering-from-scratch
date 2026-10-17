@@ -88,7 +88,7 @@ test -f my-first-skill/SKILL.md
 अंदर रहो `agent-skills-first-run`और चलाएँः
 
 ```bash
-npx skills add rohitg00/ai-engineering-from-scratch --skill skill-contract-reviewer --full-depth
+npx skills add code2careerai/ai-engineering-from-scratch --skill skill-contract-reviewer --full-depth
 ```
 
 आप एजेंट होस्ट और दायरा का चयन करें आप उपयोग कर रहे हैं. इंस्टॉलर सूचीबद्ध करना चाहिए

@@ -485,7 +485,7 @@ python3 "$TARGET_BUNDLE/scripts/evaluate_skill.py" \
 उसी निर्देशिका से, चलाएँः
 
 ```bash
-npx skills add rohitg00/ai-engineering-from-scratch --skill skill-release-gate --full-depth
+npx skills add code2careerai/ai-engineering-from-scratch --skill skill-release-gate --full-depth
 ```
 
 होस्ट, होस्ट संस्करण यदि दिखाई दे, दायरा, स्थापित पथ, और तिथि रिकॉर्ड करें।

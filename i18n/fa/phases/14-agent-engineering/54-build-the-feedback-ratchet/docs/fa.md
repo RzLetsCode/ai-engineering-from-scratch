@@ -98,7 +98,7 @@ python3 -m unittest discover code/tests -v
 
 ## آزمایشگاه تمرین: تصمیم گیری بعد از شکست
 
-یک جریان کار را از پروژه های نمونه کارها مسیر شغلی خود انتخاب کنید. آن را از طریق یک تصمیم، یک آزمایش کوچک و یک بررسی انجام دهید. شواهد را در [career delivery template](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md). .
+یک جریان کار را از پروژه های نمونه کارها مسیر شغلی خود انتخاب کنید. آن را از طریق یک تصمیم، یک آزمایش کوچک و یک بررسی انجام دهید. شواهد را در [career delivery template](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md). .
 
 آزمایشگاه پایتون اقدامات مثال پس انداز را تولید می کند. این کاربر را مشاهده نمی کند، مداخله را اندازه گیری نمی کند یا آمادگی شغلی را ثابت نمی کند. تکمیل اجرای آن آماده سازی برای این تمرین است.
 
@@ -156,7 +156,7 @@ python3 -m unittest discover code/tests -v
 
 ## آثار هنری ارسال شده
 
-- نقل شده[career-delivery-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)در پروژه خود قرار دهید و آن را با لینک های شواهد تکمیل کنید. قالب ثبت شده را قابل استفاده مجدد نگه دارید. خلاصه تصمیم گیری، تعامل، مقایسه اندازه گیری و پیگیری متعلق به نمونه کارها حرفه ای خود را شامل کنید.
+- نقل شده[career-delivery-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)در پروژه خود قرار دهید و آن را با لینک های شواهد تکمیل کنید. قالب ثبت شده را قابل استفاده مجدد نگه دارید. خلاصه تصمیم گیری، تعامل، مقایسه اندازه گیری و پیگیری متعلق به نمونه کارها حرفه ای خود را شامل کنید.
 
 ## بررسی کنید
 

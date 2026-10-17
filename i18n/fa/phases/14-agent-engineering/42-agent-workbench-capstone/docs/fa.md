@@ -204,7 +204,7 @@ python3 code/main.py
 
 ## آثار هنری ارسال شده
 
-بسته بندی قابل استفاده مجدد و نسخه کامل خود را نگه دارید[career-agent-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). این قالب چارچوب کار، برنامه اجرا، رسید های زمان اجرا، بررسی، تمرین بازیابی و انتقال را به یک مطالعه موردی قابل بررسی متصل می کند.
+بسته بندی قابل استفاده مجدد و نسخه کامل خود را نگه دارید[career-agent-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). این قالب چارچوب کار، برنامه اجرا، رسید های زمان اجرا، بررسی، تمرین بازیابی و انتقال را به یک مطالعه موردی قابل بررسی متصل می کند.
 
 ## اصطلاحات کلیدی
 
@@ -219,7 +219,7 @@ python3 code/main.py
 ## خواندن بیشتر
 
 - مراحل 14 · 31 تا 14 · 41  هر سطحی که این بسته بسته بندی می کند
-- [SkillKit](https://github.com/rohitg00/skillkit) این مهارت را در 32 عامل هوش مصنوعی نصب کنید
+- [SkillKit](https://github.com/code2careerai/skillkit) این مهارت را در 32 عامل هوش مصنوعی نصب کنید
 - [Nx Blog, Teach Your AI Agent How to Work in a Monorepo](https://nx.dev/blog/nx-ai-agent-skills) ژنراتور واحد در شش ابزار
 - [agents.md — the open spec](https://agents.md/) آنچه را که روتر بسته شما باید پیاده سازی کند
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) اجرای مرجع یک بسته بندی معادل

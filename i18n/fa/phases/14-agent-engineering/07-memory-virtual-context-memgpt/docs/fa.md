@@ -159,4 +159,4 @@ python3 code/main.py
 - [Zep (getzep/zep)](https://github.com/getzep/zep) حافظه گراف دانش زمانی از جدول تاکسونومی
 - [Mem0 (mem0ai/mem0)](https://github.com/mem0ai/mem0) لوله استخراج پشت فروشگاه های هیبریدی درس 09
 - [LangMem (langchain-ai/langmem)](https://github.com/langchain-ai/langmem) استخراج پس زمینه از حقایق و قوانین رفتاری
-- [agentmemory (rohitg00/agentmemory)](https://github.com/rohitg00/agentmemory) ضبط جلسه به ثبت های تایپ شده و قابل جستجو تبدیل می شود
+- [agentmemory (code2careerai/agentmemory)](https://github.com/code2careerai/agentmemory) ضبط جلسه به ثبت های تایپ شده و قابل جستجو تبدیل می شود

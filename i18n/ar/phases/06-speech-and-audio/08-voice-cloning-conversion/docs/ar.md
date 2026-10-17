@@ -41,7 +41,7 @@
 
 **Watermarking.**PerTh (Perth) و SilentCipher (2024) تضمين معرف ~ 16-32 بت بشكل لا يمكن ملاحظته في الصوت. ينجو من إعادة تشفير البرمجة والتشغيل والتحريرات الشائعة. المصدر المفتوح جاهز للإنتاج.
 
-**Consent gates.**يجب أن يربط كل إنتاج مستخدمه بسجل موافقة يمكن التحقق منه. "أنا، روهيت، في 2026-04-22، أؤذن بهذا الصوت لغرض "إكس".
+**Consent gates.**يجب أن يربط كل إنتاج مستخدمه بسجل موافقة يمكن التحقق منه "أنا، code2careerai، في 2026-04-22، أصدّق هذا الصوت لغرض X"
 
 **Detection.**أعلنت تحدي ASVspoof 2025 EERs من 0.82.3% لمكافحة الكشف المتطور ضد ElevenLabs و VALL-E 2 و Bark.
 
@@ -80,7 +80,7 @@ def clone_pipeline(ref_audio, text, target_embedder, tts_model):
 from f5_tts.api import F5TTS
 tts = F5TTS()
 wav = tts.infer(
-    ref_file="rohit_5s.wav",
+    ref_file="code2careerai_5s.wav",
     ref_text="The quick brown fox jumps over the lazy dog.",
     gen_text="Please add milk and bread to my list.",
 )

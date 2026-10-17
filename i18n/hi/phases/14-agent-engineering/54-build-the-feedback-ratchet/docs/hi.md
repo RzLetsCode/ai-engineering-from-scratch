@@ -98,7 +98,7 @@ python3 -m unittest discover code/tests -v
 
 ## अभ्यास प्रयोगशालाः एक असफलता के बाद अपना निर्णय लें
 
-अपने करियर मार्ग के पोर्टफोलियो प्रोजेक्ट से एक वर्कफ़्लो चुनें। इसे एक निर्णय, एक छोटा प्रयोग और एक समीक्षा के माध्यम से करें। सबूतों को [career delivery template](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md). .
+अपने करियर मार्ग के पोर्टफोलियो प्रोजेक्ट से एक वर्कफ़्लो चुनें। इसे एक निर्णय, एक छोटा प्रयोग और एक समीक्षा के माध्यम से करें। सबूतों को [career delivery template](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md). .
 
 पायथन लैब उदाहरण बैकलॉग एक्शन उत्पन्न करता है। यह उपयोगकर्ताओं का अवलोकन नहीं करता है, हस्तक्षेप को मापता है, या कैरियर की तत्परता साबित नहीं करता है। इसके रन को पूरा करना इस अभ्यास की तैयारी है।
 
@@ -156,7 +156,7 @@ python3 -m unittest discover code/tests -v
 
 ## शिप की गई कलाकृतियाँ
 
-कॉपी [career-delivery-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)अपने स्वयं के प्रोजेक्ट में शामिल करें और इसे सबूत लिंक के साथ पूरा करें। चेक-इन टेम्पलेट को पुनः प्रयोज्य रखें। निर्णय संक्षिप्त, बातचीत के माध्यम से, माप की तुलना, और अपने करियर पोर्टफोलियो कलाकृतियों के साथ स्वामित्व वाली अनुवर्ती शामिल करें।
+कॉपी [career-delivery-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)अपने स्वयं के प्रोजेक्ट में शामिल करें और इसे सबूत लिंक के साथ पूरा करें। चेक-इन टेम्पलेट को पुनः प्रयोज्य रखें। निर्णय संक्षिप्त, बातचीत के माध्यम से, माप की तुलना, और अपने करियर पोर्टफोलियो कलाकृतियों के साथ स्वामित्व वाली अनुवर्ती शामिल करें।
 
 ## जाँचें
 

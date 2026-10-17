@@ -159,4 +159,4 @@ python3 code/main.py
 - [Zep (getzep/zep)](https://github.com/getzep/zep) वर्गीकरण तालिका से समय ज्ञान-ग्राफ स्मृति
 - [Mem0 (mem0ai/mem0)](https://github.com/mem0ai/mem0) पाठ 09 के हाइब्रिड स्टोर के पीछे की निकासी पाइपलाइन
 - [LangMem (langchain-ai/langmem)](https://github.com/langchain-ai/langmem) तथ्यों और व्यवहारिक नियमों की पृष्ठभूमि निकासी
-- [agentmemory (rohitg00/agentmemory)](https://github.com/rohitg00/agentmemory) सत्र कैप्चर टाइप किए गए, खोज योग्य रिकॉर्ड में समेकित
+- [agentmemory (code2careerai/agentmemory)](https://github.com/code2careerai/agentmemory) सत्र कैप्चर टाइप किए गए, खोज योग्य रिकॉर्ड में समेकित

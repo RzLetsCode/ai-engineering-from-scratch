@@ -204,7 +204,7 @@ python3 code/main.py
 
 ## शिप की गई कलाकृतियाँ
 
-पुनः प्रयोज्य पैक और अपनी पूरी प्रति रखें [career-agent-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). टेम्पलेट कार्य फ्रेम, निष्पादन योजना, रनटाइम रसीद, समीक्षा, पुनर्प्राप्ति अभ्यास और एक समीक्षा योग्य केस स्टडी में स्थानांतरित करता है।
+पुनः प्रयोज्य पैक और अपनी पूरी प्रति रखें [career-agent-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). टेम्पलेट कार्य फ्रेम, निष्पादन योजना, रनटाइम रसीद, समीक्षा, पुनर्प्राप्ति अभ्यास और एक समीक्षा योग्य केस स्टडी में स्थानांतरित करता है।
 
 ## प्रमुख शर्तें
 
@@ -219,7 +219,7 @@ python3 code/main.py
 ## आगे पढ़ना
 
 - चरण 14 · 31 से 14 · 41  प्रत्येक सतह इस पैक बंडल
-- [SkillKit](https://github.com/rohitg00/skillkit) 32 एआई एजेंटों में इस कौशल को स्थापित करें
+- [SkillKit](https://github.com/code2careerai/skillkit) 32 एआई एजेंटों में इस कौशल को स्थापित करें
 - [Nx Blog, Teach Your AI Agent How to Work in a Monorepo](https://nx.dev/blog/nx-ai-agent-skills) छह उपकरणों पर एकल स्रोत जनरेटर
 - [agents.md — the open spec](https://agents.md/) आपके पैक के राउटर को क्या लागू करना चाहिए
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) पैक समकक्ष के संदर्भ कार्यान्वयन

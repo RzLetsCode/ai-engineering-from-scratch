@@ -41,7 +41,7 @@
 
 **Watermarking.**PerTh (Perth) و SilentCipher (2024) یک ID ~16-32 بیت را به طور غیر قابل تشخیص در آڈیو گنجانده اند. دوباره کدگذاری، پخش و ویرایش های رایج زنده می ماند. منبع باز آماده تولید.
 
-**Consent gates.**بايد هر محصولي که کلان شده است با سوابق موافقتي که قابل تصديق است همراه بشه. "من، روهيت، در سال 2026-04-22 اين صدا رو براي هدف X تصريح مي کنم".
+**Consent gates.**بايد هر محصولي که کليده شده با سوابق موافقتي قابل تصحيحي همراه باشه. "من، کد2کاراي، در سال 2026-04-22 اين صدا رو براي هدف X تصريح مي کنم".
 
 **Detection.**AASIST، RawNet2 و Wav2Vec2-AASIST به عنوان آشکارسازها کشتی. ASVspoof 2025 چالش منتشر EER 0.82.3% برای آشکارساز های پیشرفته در برابر ElevenLabs، VALL-E 2 و بارک خروجی.
 
@@ -80,7 +80,7 @@ def clone_pipeline(ref_audio, text, target_embedder, tts_model):
 from f5_tts.api import F5TTS
 tts = F5TTS()
 wav = tts.infer(
-    ref_file="rohit_5s.wav",
+    ref_file="code2careerai_5s.wav",
     ref_text="The quick brown fox jumps over the lazy dog.",
     gen_text="Please add milk and bread to my list.",
 )

@@ -98,7 +98,7 @@ Ajoutez un signal de temps d'arrêt de l'exécution et confirmez qu'il est en ro
 
 ## Laboratoire de pratique: prendre une décision après un revers
 
-Choisissez un flux de travail dans le projet de votre carrière.[career delivery template](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)- Je suis désolé .
+Choisissez un flux de travail dans le projet de votre carrière.[career delivery template](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)- Je suis désolé .
 
 Le laboratoire Python génère des actions de backlog d'exemple. Il n'observe pas les utilisateurs, ne mesure pas une intervention ou ne prouve pas la préparation à la carrière.
 
@@ -156,7 +156,7 @@ Lors de l'examen, décidez de conserver, de réviser ou de retirer cette amélio
 
 ## Artéfacts expédiés
 
-- C' est vrai .[career-delivery-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)En outre, il est important de noter que les données de base de votre projet sont disponibles dans votre propre projet et de les compléter avec des liens de preuve.
+- C' est vrai .[career-delivery-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)En outre, il est important de noter que les données de base de votre projet sont disponibles dans votre propre projet et de les compléter avec des liens de preuve.
 
 ## Vérifiez
 

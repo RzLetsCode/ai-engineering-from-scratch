@@ -204,7 +204,7 @@ Déterminer `needs revision`Les résultats obtenus avant de prétendre que la t�
 
 ## Artéfacts expédiés
 
-Gardez l' emballage réutilisable et votre copie complète de [career-agent-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). Le modèle relie le cadre de tâche, le plan d'exécution, les reçus de temps d'exécution, l'examen, la répétition de récupération et la présentation dans une étude de cas révisable.
+Gardez l' emballage réutilisable et votre copie complète de [career-agent-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). Le modèle relie le cadre de tâche, le plan d'exécution, les reçus de temps d'exécution, l'examen, la répétition de récupération et la présentation dans une étude de cas révisable.
 
 ## Les termes clés
 
@@ -219,7 +219,7 @@ Gardez l' emballage réutilisable et votre copie complète de [career-agent-evid
 ## Pour en savoir plus
 
 - Les phases 14 · 31 à 14 · 41  chaque surface que cette boîte regroupe
-- [SkillKit](https://github.com/rohitg00/skillkit) installer cette compétence sur 32 agents d'IA
+- [SkillKit](https://github.com/code2careerai/skillkit) installer cette compétence sur 32 agents d'IA
 - [Nx Blog, Teach Your AI Agent How to Work in a Monorepo](https://nx.dev/blog/nx-ai-agent-skills) Générateur à source unique sur six outils
 - [agents.md — the open spec](https://agents.md/) ce que doit mettre en œuvre le routeur de votre paquet
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) mise en œuvre de référence d'un équivalent de conditionnement

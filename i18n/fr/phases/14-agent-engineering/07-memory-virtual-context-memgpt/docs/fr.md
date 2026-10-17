@@ -159,4 +159,4 @@ Les mises en œuvre open source choisissent différents points d'attaque:
 - [Zep (getzep/zep)](https://github.com/getzep/zep) mémoire temporelle de la graphie des connaissances de la table de taxonomie
 - [Mem0 (mem0ai/mem0)](https://github.com/mem0ai/mem0) le pipeline d'extraction derrière le magasin hybride de la leçon 09
 - [LangMem (langchain-ai/langmem)](https://github.com/langchain-ai/langmem) extraction de fond de faits et de règles de comportement
-- [agentmemory (rohitg00/agentmemory)](https://github.com/rohitg00/agentmemory) Capture de session consolidée en enregistrements taillés et recherchables
+- [agentmemory (code2careerai/agentmemory)](https://github.com/code2careerai/agentmemory) Capture de session consolidée en enregistrements taillés et recherchables

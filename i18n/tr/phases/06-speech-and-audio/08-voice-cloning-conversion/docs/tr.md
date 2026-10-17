@@ -41,7 +41,7 @@ F5-TTS (2024), YourTTS (2022), XTTS v2 (2024), OpenVoice v2 (2024) tarafından k
 
 **Watermarking.**PerTh (Perth) ve SilentCipher (2024) sesle ~16-32 bit bir ID'yi fark edilemez şekilde yerleştirir. Yeniden kodlama, akış ve ortak düzenlemeler hayatta kalır. Üretim hazır açık kaynak.
 
-**Consent gates.**Her klon edilmiş çıkışın doğrulanabilir bir onay kaydı ile eşleştirilmesi gerekir. "Ben, Rohit, 2026-04-22'de bu sesin X amaçlı yetkisi veriliyor".
+**Consent gates.**Her klon edilmiş çıkışın doğrulanabilir bir onay kaydı ile eşleştirilmesi gerekir. "Ben, code2careerai, 2026-04-22 tarihinde, bu sesin X amaçlı yetkisi. "
 
 **Detection.**AASIST, RawNet2 ve Wav2Vec2-AASIST, detektör olarak gemiyi gönderdi. ASVspoof 2025 meydan okuma, ElevenLabs, VALL-E 2 ve Bark çıkışlarına karşı en son detektörler için 0.82.3% EER'leri yayınladı.
 
@@ -80,7 +80,7 @@ Konseptik olarak basit; uygulama kütlesi `tts_model`Ve hoparlör kodlayıcı.
 from f5_tts.api import F5TTS
 tts = F5TTS()
 wav = tts.infer(
-    ref_file="rohit_5s.wav",
+    ref_file="code2careerai_5s.wav",
     ref_text="The quick brown fox jumps over the lazy dog.",
     gen_text="Please add milk and bread to my list.",
 )

@@ -159,4 +159,4 @@ python3 code/main.py
 - [Zep (getzep/zep)](https://github.com/getzep/zep) ذاكرة علم-جراف زمني من جدول التصنيف
 - [Mem0 (mem0ai/mem0)](https://github.com/mem0ai/mem0)خط أنابيب الاستخراج وراء متجر التداول الهجري في الدروس 09
 - [LangMem (langchain-ai/langmem)](https://github.com/langchain-ai/langmem) استخراج الخلفية من الحقائق وقواعد السلوك
-- [agentmemory (rohitg00/agentmemory)](https://github.com/rohitg00/agentmemory) استكشاف جلسات مدمجة في سجلات مدرجة قابلة للبحث
+- [agentmemory (code2careerai/agentmemory)](https://github.com/code2careerai/agentmemory) استكشاف جلسات مدمجة في سجلات مدرجة قابلة للبحث

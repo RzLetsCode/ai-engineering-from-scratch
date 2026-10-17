@@ -204,7 +204,7 @@ python3 code/main.py
 
 ## الأثاث المُرسل
 
-احتفظي بالحزمة القابلة لإعادة الاستخدام والنسخة المكتملة من[career-agent-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). يربط الشكل إطار المهمة وخطة التنفيذ وإيصالات الوقت المباشر والمراجعة وممارسة الاسترداد والإرسال في دراسة حالة واحدة قابلة للمراجعة.
+احتفظي بالحزمة القابلة لإعادة الاستخدام والنسخة المكتملة من[career-agent-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). يربط الشكل إطار المهمة وخطة التنفيذ وإيصالات الوقت المباشر والمراجعة وممارسة الاسترداد والإرسال في دراسة حالة واحدة قابلة للمراجعة.
 
 ## الشروط الرئيسية
 
@@ -219,7 +219,7 @@ python3 code/main.py
 ## المزيد من القراءة
 
 - المراحل 14 · 31 إلى 14 · 41  كل سطح هذه الحزمة
-- [SkillKit](https://github.com/rohitg00/skillkit) تثبيت هذه المهارة على 32 وكيل الذكاء الاصطناعي
+- [SkillKit](https://github.com/code2careerai/skillkit) تثبيت هذه المهارة على 32 وكيل الذكاء الاصطناعي
 - [Nx Blog, Teach Your AI Agent How to Work in a Monorepo](https://nx.dev/blog/nx-ai-agent-skills) مولد مصدر واحد عبر ست أدوات
 - [agents.md — the open spec](https://agents.md/) ما يجب أن ينفذ جهاز توجيه حزمة التوصيل الخاصة بك
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) تنفيذ مرجعية لمكافئ الحزمة

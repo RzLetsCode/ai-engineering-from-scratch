@@ -98,7 +98,7 @@ python3 -m unittest discover code/tests -v
 
 ## المختبر التدريبي: اتخاذ قرار بعد تعثير
 
-اختر سير العمل واحد من مشروع محفظة مسار حياتك المهنية. اجعله من خلال قرار واحد، تجربة صغيرة، ومراجعة. احتفظ بالدليل في [career delivery template](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md). . .
+اختر سير العمل واحد من مشروع محفظة مسار حياتك المهنية. اجعله من خلال قرار واحد، تجربة صغيرة، ومراجعة. احتفظ بالدليل في [career delivery template](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md). . .
 
 يقوم مختبر Python بتوليد أفعال عودية مثالية. لا يلاحظ المستخدمين أو يقيس التدخل أو يثبت استعداد الوظيفة. استكمال تشغيله هو التحضير لهذا التمرين.
 
@@ -156,7 +156,7 @@ python3 -m unittest discover code/tests -v
 
 ## الأثاث المُرسل
 
-نسخة[career-delivery-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)في مشروعك الخاص واكملته بروابط دليل. احفظ القالب المحقق فيه قابلاً للاستعمال مرة أخرى. تضم المعلومات القصيرة عن القرار، ومواصلة التفاعل، ومقارنة القياسات، والمتابعة المملوكة لأثاث محفظة حياتك المهنية.
+نسخة[career-delivery-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)في مشروعك الخاص واكملته بروابط دليل. احفظ القالب المحقق فيه قابلاً للاستعمال مرة أخرى. تضم المعلومات القصيرة عن القرار، ومواصلة التفاعل، ومقارنة القياسات، والمتابعة المملوكة لأثاث محفظة حياتك المهنية.
 
 ## تحقق من ذلك
 

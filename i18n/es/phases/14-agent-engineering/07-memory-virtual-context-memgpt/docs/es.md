@@ -159,4 +159,4 @@ Las implementaciones de código abierto eligen diferentes puntos de ataque:
 - [Zep (getzep/zep)](https://github.com/getzep/zep) Memoria temporal del grafo de conocimiento de la tabla de taxonomía
 - [Mem0 (mem0ai/mem0)](https://github.com/mem0ai/mem0) el oleoducto de extracción detrás de la tienda híbrida de la Lección 09
 - [LangMem (langchain-ai/langmem)](https://github.com/langchain-ai/langmem) extracción de datos y normas de comportamiento
-- [agentmemory (rohitg00/agentmemory)](https://github.com/rohitg00/agentmemory) Captura de sesiones consolidada en registros digitalizados y buscables
+- [agentmemory (code2careerai/agentmemory)](https://github.com/code2careerai/agentmemory) Captura de sesiones consolidada en registros digitalizados y buscables

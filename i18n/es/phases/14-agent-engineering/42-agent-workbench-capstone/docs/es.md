@@ -204,7 +204,7 @@ Resolverlo`needs revision`Las conclusiones antes de reclamar la finalización de
 
 ## Artículo enviado
 
-Guarde el paquete reutilizable y su copia completa de [career-agent-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). La plantilla conecta el marco de tareas, el plan de ejecución, los recibos de tiempo de ejecución, la revisión, el ensayo de recuperación y la entrega en un estudio de caso revisable.
+Guarde el paquete reutilizable y su copia completa de [career-agent-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). La plantilla conecta el marco de tareas, el plan de ejecución, los recibos de tiempo de ejecución, la revisión, el ensayo de recuperación y la entrega en un estudio de caso revisable.
 
 ## Términos clave
 
@@ -219,7 +219,7 @@ Guarde el paquete reutilizable y su copia completa de [career-agent-evidence.md]
 ## Leer más
 
 - Fases 14 · 31 a 14 · 41  cada superficie que este paquete envuelve
-- [SkillKit](https://github.com/rohitg00/skillkit) instalar esta habilidad en 32 agentes de IA
+- [SkillKit](https://github.com/code2careerai/skillkit) instalar esta habilidad en 32 agentes de IA
 - [Nx Blog, Teach Your AI Agent How to Work in a Monorepo](https://nx.dev/blog/nx-ai-agent-skills) Generador de un solo origen en seis herramientas
 - [agents.md — the open spec](https://agents.md/) lo que debe implementar el router de su paquete
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) Implementación de referencia de un equivalente de envasado

@@ -98,7 +98,7 @@ Añadir una señal de tiempo de espera de tiempo de ejecución y confirmar que s
 
 ## Laboratorio de práctica: tomar una decisión después de un revés
 
-Elige un flujo de trabajo de tu proyecto de cartera de carrera.[career delivery template](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)¿ Qué ?
+Elige un flujo de trabajo de tu proyecto de cartera de carrera.[career delivery template](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)¿ Qué ?
 
 El laboratorio de Python genera acciones de ejemplo de retraso. No observa a los usuarios, no mide una intervención ni prueba la preparación para la carrera.
 
@@ -156,7 +156,7 @@ En el proceso de revisión, decide si debe mantener, revisar o retirar esa mejor
 
 ## Artículo enviado
 
-Copia .[career-delivery-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)En el caso de los proyectos de investigación, incluye el informe de decisión, el proceso de interacción, la comparación de mediciones y el seguimiento de su cartera profesional.
+Copia .[career-delivery-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)En el caso de los proyectos de investigación, incluye el informe de decisión, el proceso de interacción, la comparación de mediciones y el seguimiento de su cartera profesional.
 
 ## Verifique el hecho
 

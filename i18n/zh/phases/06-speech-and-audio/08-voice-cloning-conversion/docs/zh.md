@@ -41,7 +41,7 @@
 
 **Watermarking.**珀斯 (珀斯) 和SilentCipher (2024) 嵌入了~16-32位ID无形地在音频中. 存活了重新编码,流媒体和常见编辑. 准备生产的开源.
 
-**Consent gates.**必须将所有被克隆的输出与可验证的同意记录结合起来. "我,罗希特,在2026-04-22日,授权这个声音X目的.
+**Consent gates.**必须将每个克隆输出与可验证的同意记录结合起来. "我,code2careerai,在2026-04-22日,授权这个声音X目的. "
 
 **Detection.**美国ASIST,RawNet2和Wav2Vec2-AASIST作为探测器. ASVspoof 2025挑战发布了对ElevenLabs,VALL-E2和Bark输出的最先进探测器的0.82.3%的EER.
 
@@ -80,7 +80,7 @@ def clone_pipeline(ref_audio, text, target_embedder, tts_model):
 from f5_tts.api import F5TTS
 tts = F5TTS()
 wav = tts.infer(
-    ref_file="rohit_5s.wav",
+    ref_file="code2careerai_5s.wav",
     ref_text="The quick brown fox jumps over the lazy dog.",
     gen_text="Please add milk and bread to my list.",
 )

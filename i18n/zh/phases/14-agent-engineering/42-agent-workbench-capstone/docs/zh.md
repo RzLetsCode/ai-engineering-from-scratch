@@ -204,7 +204,7 @@ python3 code/main.py
 
 ## 运输的文物
 
-保存可重复使用的包装和您的复印件[career-agent-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md)模板将任务框架,执行计划,运行时间收据,审查,恢复练习和转让连接到一个可审查的案例研究中.
+保存可重复使用的包装和您的复印件[career-agent-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md)模板将任务框架,执行计划,运行时间收据,审查,恢复练习和转让连接到一个可审查的案例研究中.
 
 ## 关键词
 
@@ -219,7 +219,7 @@ python3 code/main.py
 ## 进一步阅读
 
 - 阶段14 · 31至14 · 41 每一个面积包装包装
-- [SkillKit](https://github.com/rohitg00/skillkit)将这种技能安装在32个人工智能代理中
+- [SkillKit](https://github.com/code2careerai/skillkit)将这种技能安装在32个人工智能代理中
 - [Nx Blog, Teach Your AI Agent How to Work in a Monorepo](https://nx.dev/blog/nx-ai-agent-skills) 六个工具的单源发电机
 - [agents.md — the open spec](https://agents.md/)您的包装路由器必须实现什么
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) 包装等价的参考实施

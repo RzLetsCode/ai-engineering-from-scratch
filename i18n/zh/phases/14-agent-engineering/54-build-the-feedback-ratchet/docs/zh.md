@@ -98,7 +98,7 @@ python3 -m unittest discover code/tests -v
 
 ## 实践实验室:经历挫折后,做出决定
 
-选择一个从职业路线投资组合项目中工作流程.通过一个决定,一个小实验和一个审查进行.[career delivery template](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)现在,我们要去.
+选择一个从职业路线投资组合项目中工作流程.通过一个决定,一个小实验和一个审查进行.[career delivery template](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)现在,我们要去.
 
 图库生成了示例后备行动.它不观察用户,测量干预,或证明职业准备.完成其运行是为此练习做准备.
 
@@ -156,7 +156,7 @@ python3 -m unittest discover code/tests -v
 
 ## 运输的文物
 
-复制[career-delivery-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)您的项目可以使用证据链接完成. 保持登记的模板可重复使用. 包含决策简报,互动通行,测量比较和您的职业组合文物的自有跟踪.
+复制[career-delivery-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)您的项目可以使用证据链接完成. 保持登记的模板可重复使用. 包含决策简报,互动通行,测量比较和您的职业组合文物的自有跟踪.
 
 ## 检查
 

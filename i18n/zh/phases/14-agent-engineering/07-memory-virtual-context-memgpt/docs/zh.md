@@ -159,4 +159,4 @@ python3 code/main.py
 - [Zep (getzep/zep)](https://github.com/getzep/zep)类别表中的时间知识图记忆
 - [Mem0 (mem0ai/mem0)](https://github.com/mem0ai/mem0)课09的混合商店背后的采集管道
 - [LangMem (langchain-ai/langmem)](https://github.com/langchain-ai/langmem) 背景调查事实和行为规则
-- [agentmemory (rohitg00/agentmemory)](https://github.com/rohitg00/agentmemory)集成成类型,可搜索的记录
+- [agentmemory (code2careerai/agentmemory)](https://github.com/code2careerai/agentmemory)集成成类型,可搜索的记录

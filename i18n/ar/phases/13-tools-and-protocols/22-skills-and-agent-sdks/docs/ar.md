@@ -88,7 +88,7 @@ test -f my-first-skill/SKILL.md
 ابق في الداخل`agent-skills-first-run`و أطلق:
 
 ```bash
-npx skills add rohitg00/ai-engineering-from-scratch --skill skill-contract-reviewer --full-depth
+npx skills add code2careerai/ai-engineering-from-scratch --skill skill-contract-reviewer --full-depth
 ```
 
 اختر عامل المضيف والطاق الذي تستخدمه. يجب على الجهاز التثبيت إدراج

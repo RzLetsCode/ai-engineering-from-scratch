@@ -485,7 +485,7 @@ python3 "$TARGET_BUNDLE/scripts/evaluate_skill.py" \
 من نفس المجلد، تشغيل:
 
 ```bash
-npx skills add rohitg00/ai-engineering-from-scratch --skill skill-release-gate --full-depth
+npx skills add code2careerai/ai-engineering-from-scratch --skill skill-release-gate --full-depth
 ```
 
 سجل المضيف، نسخة المضيف إذا كانت مرئية، نطاق، المسار المثبت، والتاريخ.

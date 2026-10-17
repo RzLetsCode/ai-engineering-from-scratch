@@ -204,7 +204,7 @@ Resolva .`needs revision`- a conclusão antes de reivindicar a conclusão da tar
 
 ## Artigo enviado
 
-Mantenha a embalagem reutilizável e a sua cópia completa de [career-agent-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). O modelo conecta o quadro de tarefa, o plano de execução, os recibos de execução, a revisão, o ensaio de recuperação e a entrega num estudo de caso revisable.
+Mantenha a embalagem reutilizável e a sua cópia completa de [career-agent-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). O modelo conecta o quadro de tarefa, o plano de execução, os recibos de execução, a revisão, o ensaio de recuperação e a entrega num estudo de caso revisable.
 
 ## Termos-chave
 
@@ -219,7 +219,7 @@ Mantenha a embalagem reutilizável e a sua cópia completa de [career-agent-evid
 ## Mais leitura
 
 - Fases 14 · 31 a 14 · 41  cada superfície que este pacote agrega
-- [SkillKit](https://github.com/rohitg00/skillkit) instalar esta habilidade em 32 agentes de IA
+- [SkillKit](https://github.com/code2careerai/skillkit) instalar esta habilidade em 32 agentes de IA
 - [Nx Blog, Teach Your AI Agent How to Work in a Monorepo](https://nx.dev/blog/nx-ai-agent-skills) Gerador de fonte única em seis ferramentas
 - [agents.md — the open spec](https://agents.md/) o que o roteador da sua embalagem deve implementar
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) Implementação de referência de um equivalente de embalagem

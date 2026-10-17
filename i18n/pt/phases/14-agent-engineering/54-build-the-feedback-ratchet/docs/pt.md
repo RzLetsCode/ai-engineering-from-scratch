@@ -98,7 +98,7 @@ Adicione um sinal de tempo de saída para a execução e confirme que ele se enc
 
 ## Laboratório de Prática: Tomar uma decisão após um revés
 
-Escolha um fluxo de trabalho do projeto de portfólio da sua rota de carreira.[career delivery template](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)- Não .
+Escolha um fluxo de trabalho do projeto de portfólio da sua rota de carreira.[career delivery template](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)- Não .
 
 O laboratório Python gera ações de backlog de exemplo. Não observa usuários, não mede uma intervenção ou não prova a preparação para a carreira.
 
@@ -156,7 +156,7 @@ Ao revisar, decida se manter, revisar ou retirar essa melhoria. Registre as evid
 
 ## Artigo enviado
 
-- Copia .[career-delivery-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)Incluir o resumo de decisão, a análise de interação, a comparação de medições e o acompanhamento de propriedade com o seu artefato de portfólio de carreira.
+- Copia .[career-delivery-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)Incluir o resumo de decisão, a análise de interação, a comparação de medições e o acompanhamento de propriedade com o seu artefato de portfólio de carreira.
 
 ## Verifique
 

@@ -204,7 +204,7 @@ Kararını ver .`needs revision`Görev tamamlandığını iddia etmeden önce bu
 
 ## Nakliye edilen Sanatlı
 
-Yeniden kullanılabilir paketinizi ve tamamlanmış kopyalarınızı saklayın.[career-agent-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md)Şablon görev çerçevesini, yürütme planını, çalışma zamanının risitlerini, incelemeyi, kurtarma provalarını ve teslimatını tek bir inceleme edilebilir vaka çalışmasına bağlar.
+Yeniden kullanılabilir paketinizi ve tamamlanmış kopyalarınızı saklayın.[career-agent-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md)Şablon görev çerçevesini, yürütme planını, çalışma zamanının risitlerini, incelemeyi, kurtarma provalarını ve teslimatını tek bir inceleme edilebilir vaka çalışmasına bağlar.
 
 ## Anahtar Terimler
 
@@ -219,7 +219,7 @@ Yeniden kullanılabilir paketinizi ve tamamlanmış kopyalarınızı saklayın.[
 ## Daha Fazla Okumak
 
 - 14 · 31 ila 14 · 41  Bu paket her yüzeyi toplar
-- [SkillKit](https://github.com/rohitg00/skillkit) 32 AI ajanına bu beceriyi yükle
+- [SkillKit](https://github.com/code2careerai/skillkit) 32 AI ajanına bu beceriyi yükle
 - [Nx Blog, Teach Your AI Agent How to Work in a Monorepo](https://nx.dev/blog/nx-ai-agent-skills) 6 alet üzerinde tek kaynaklı jeneratör
 - [agents.md — the open spec](https://agents.md/) paketinizin yönlendirici neyi uygulamalı
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) Paket eşdeğerinin referans uygulanması

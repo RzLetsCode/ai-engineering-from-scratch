@@ -98,7 +98,7 @@ Bir runtime timeout sinyali ekleyin ve genel geriye kalanın yerine runtime'ye y
 
 ## Pratik Laboratuvar: Bir Karar Vermek
 
-Kariyer yolunuzdaki portföy projesinden bir iş akışı seçin.[career delivery template](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)- Evet .
+Kariyer yolunuzdaki portföy projesinden bir iş akışı seçin.[career delivery template](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)- Evet .
 
 Python laboratuvarı, örnek gerileme eylemleri oluşturur. Kullanıcıları gözlemlemez, müdahaleyi ölçmez veya kariyer hazırlığını kanıtlamaz.
 
@@ -156,7 +156,7 @@ Bu değişikliklerin devam etmesi, gözden geçirilmesi veya geri alınacağı k
 
 ## Nakliye edilen Sanatlı
 
-- Tamam .[career-delivery-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)Bu projenin en iyi yolu, kendi projenin içine girmek ve kanıt bağlantıları ile tamamlamak. Kaydedilen şablonun tekrar kullanılabilir olmasını sağlayın. Karar özetini, etkileşim geçişini, ölçüm karşılaştırmasını ve kariyer portföyünüzün eserlerini takip etmeyi içerir.
+- Tamam .[career-delivery-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)Bu projenin en iyi yolu, kendi projenin içine girmek ve kanıt bağlantıları ile tamamlamak. Kaydedilen şablonun tekrar kullanılabilir olmasını sağlayın. Karar özetini, etkileşim geçişini, ölçüm karşılaştırmasını ve kariyer portföyünüzün eserlerini takip etmeyi içerir.
 
 ## Kontrol et
 

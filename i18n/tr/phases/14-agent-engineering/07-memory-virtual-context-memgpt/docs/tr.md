@@ -159,4 +159,4 @@ Açık kaynaklı uygulamalar farklı saldırı noktalarını seçer:
 - [Zep (getzep/zep)](https://github.com/getzep/zep) Taksonom tablosundan zamanlı bilgi grafi hafızası
 - [Mem0 (mem0ai/mem0)](https://github.com/mem0ai/mem0) Ders 09'un hibrit mağazasının arkasındaki çıkarım boru hattı
 - [LangMem (langchain-ai/langmem)](https://github.com/langchain-ai/langmem) Gerçeklerin ve davranış kurallarının arka plan çıkarımı
-- [agentmemory (rohitg00/agentmemory)](https://github.com/rohitg00/agentmemory) Sessiyon kaydı, yazılmış, arama yapılabilir kayıtlara birleştirilmiştir
+- [agentmemory (code2careerai/agentmemory)](https://github.com/code2careerai/agentmemory) Sessiyon kaydı, yazılmış, arama yapılabilir kayıtlara birleştirilmiştir

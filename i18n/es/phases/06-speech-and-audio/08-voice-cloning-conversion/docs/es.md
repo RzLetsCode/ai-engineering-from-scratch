@@ -41,7 +41,7 @@ Utilizado por: F5-TTS (2024), YourTTS (2022), XTTS v2 (2024), OpenVoice v2 (2024
 
 **Watermarking.**PerTh (Perth) y SilentCipher (2024) incorporan un ID de ~16-32 bits imperceptiblemente en el audio. Sobrevive al reencodificación, transmisión y edición común.
 
-**Consent gates.**Debe combinar cada salida clonada con un registro de consentimiento verificable. "Yo, Rohit, el 2026-04-22, autorizar esta voz para el propósito X".
+**Consent gates.**Debe combinar cada salida clonada con un registro de consentimiento verificable. "Yo, code2careerai, el 2026-04-22, autorizar esta voz para el propósito X".
 
 **Detection.**AASIST, RawNet2 y Wav2Vec2-AASIST se utilizan como detectores. ASVspoof 2025 desafío publicó EERs de 0.82.3% para detectores de última generación contra ElevenLabs, VALL-E 2, y las salidas de Bark.
 
@@ -80,7 +80,7 @@ Conceptualmente simple; la masa de implementación es de`tts_model`y el codifica
 from f5_tts.api import F5TTS
 tts = F5TTS()
 wav = tts.infer(
-    ref_file="rohit_5s.wav",
+    ref_file="code2careerai_5s.wav",
     ref_text="The quick brown fox jumps over the lazy dog.",
     gen_text="Please add milk and bread to my list.",
 )

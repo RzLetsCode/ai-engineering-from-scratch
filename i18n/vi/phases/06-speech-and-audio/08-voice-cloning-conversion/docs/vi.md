@@ -41,7 +41,7 @@ Một hạn chế quan trọng mà bạn đang phải đặt vào năm 2026:**wa
 
 **Watermarking.**PerTh (Perth) và SilentCipher (2024) nhúng một ID ~ 16-32 bit vô hình trong âm thanh. tồn tại mã hóa lại, phát trực tuyến và chỉnh sửa phổ biến.
 
-**Consent gates.**"Tôi, Rohit, vào ngày 2026-04-22, cho phép giọng nói này cho mục đích X".
+**Consent gates.**Phải kết hợp mọi sản phẩm được sao chép với một hồ sơ đồng ý có thể xác minh. "Tôi, code2careerai, vào ngày 2026-04-22, cho phép giọng nói này cho mục đích X".
 
 **Detection.**AASIST, RawNet2 và Wav2Vec2-AASIST đóng vai trò là các máy dò. ASVspoof 2025 Challenge đã công bố EER 0,82,3% cho các máy dò hiện đại chống lại các sản phẩm ElevenLabs, VALL-E 2 và Bark.
 
@@ -80,7 +80,7 @@ Khả năng thực hiện là rất đơn giản.`tts_model`và bộ mã hóa lo
 from f5_tts.api import F5TTS
 tts = F5TTS()
 wav = tts.infer(
-    ref_file="rohit_5s.wav",
+    ref_file="code2careerai_5s.wav",
     ref_text="The quick brown fox jumps over the lazy dog.",
     gen_text="Please add milk and bread to my list.",
 )

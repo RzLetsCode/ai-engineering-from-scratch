@@ -204,7 +204,7 @@ Hãy quyết định`needs revision`kết quả trước khi tuyên bố hoàn t
 
 ## Các đồ tạo tác được vận chuyển
 
-Giữ gói có thể sử dụng lại và bản sao hoàn chỉnh của [career-agent-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). Chơn mẫu kết nối khung nhiệm vụ, kế hoạch thực hiện, biên nhận thời gian chạy, xem xét, thử nghiệm phục hồi và chuyển giao vào một nghiên cứu trường hợp có thể xem xét.
+Giữ gói có thể sử dụng lại và bản sao hoàn chỉnh của [career-agent-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/42-agent-workbench-capstone/outputs/career-agent-evidence.md). Chơn mẫu kết nối khung nhiệm vụ, kế hoạch thực hiện, biên nhận thời gian chạy, xem xét, thử nghiệm phục hồi và chuyển giao vào một nghiên cứu trường hợp có thể xem xét.
 
 ## Các điều khoản chính
 
@@ -219,7 +219,7 @@ Giữ gói có thể sử dụng lại và bản sao hoàn chỉnh của [career
 ## Đọc thêm
 
 - Các giai đoạn 14 · 31 đến 14 · 41  mỗi bề mặt gói này
-- [SkillKit](https://github.com/rohitg00/skillkit) cài đặt kỹ năng này trên 32 đại lý AI
+- [SkillKit](https://github.com/code2careerai/skillkit) cài đặt kỹ năng này trên 32 đại lý AI
 - [Nx Blog, Teach Your AI Agent How to Work in a Monorepo](https://nx.dev/blog/nx-ai-agent-skills) Máy phát điện nguồn duy nhất trên sáu công cụ
 - [agents.md — the open spec](https://agents.md/) điều gì router của gói của bạn phải thực hiện
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) Thực hiện tham chiếu của một gói tương đương

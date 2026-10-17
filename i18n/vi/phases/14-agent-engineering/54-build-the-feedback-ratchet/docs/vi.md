@@ -98,7 +98,7 @@ Thêm một tín hiệu thời gian chạy và xác nhận rằng nó hướng �
 
 ## Phòng thí nghiệm thực hành: Hãy tự quyết định sau khi gặp phải một sự thất bại
 
-Chọn một dòng công việc từ dự án danh mục đầu tư của tuyến đường nghề nghiệp của bạn.[career delivery template](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)- Tôi không biết.
+Chọn một dòng công việc từ dự án danh mục đầu tư của tuyến đường nghề nghiệp của bạn.[career delivery template](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)- Tôi không biết.
 
 Phòng thí nghiệm Python tạo ra các hành động backlog ví dụ. Nó không quan sát người dùng, đo lường can thiệp, hoặc chứng minh sự sẵn sàng nghề nghiệp.
 
@@ -156,7 +156,7 @@ Khi xem xét, hãy quyết định liệu bạn có nên giữ lại, sửa đ�
 
 ## Các đồ tạo tác được vận chuyển
 
-Được rồi .[career-delivery-evidence.md](https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)Trong dự án của riêng bạn và hoàn thành nó bằng các liên kết bằng chứng. Giữ mẫu đã đăng ký có thể sử dụng lại. Bao gồm thông tin ngắn về quyết định, thông qua tương tác, so sánh đo lường và theo dõi sở hữu với các sản phẩm danh mục đầu tư nghề nghiệp của bạn.
+Được rồi .[career-delivery-evidence.md](https://github.com/code2careerai/ai-engineering-from-scratch/blob/main/phases/14-agent-engineering/54-build-the-feedback-ratchet/outputs/career-delivery-evidence.md)Trong dự án của riêng bạn và hoàn thành nó bằng các liên kết bằng chứng. Giữ mẫu đã đăng ký có thể sử dụng lại. Bao gồm thông tin ngắn về quyết định, thông qua tương tác, so sánh đo lường và theo dõi sở hữu với các sản phẩm danh mục đầu tư nghề nghiệp của bạn.
 
 ## Hãy kiểm tra
 

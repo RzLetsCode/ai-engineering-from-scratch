@@ -159,4 +159,4 @@ Các ứng dụng mã nguồn mở chọn các điểm tấn công khác nhau:
 - [Zep (getzep/zep)](https://github.com/getzep/zep) Khoảnh khắc đồ thị kiến thức thời gian từ bảng phân loại
 - [Mem0 (mem0ai/mem0)](https://github.com/mem0ai/mem0) đường ống khai thác đằng sau cửa hàng lai của Bài học 09
 - [LangMem (langchain-ai/langmem)](https://github.com/langchain-ai/langmem) Khai thác tiền sử của các sự kiện và các quy tắc hành vi
-- [agentmemory (rohitg00/agentmemory)](https://github.com/rohitg00/agentmemory) chụp phiên tập hợp thành các hồ sơ được gõ, có thể tìm kiếm
+- [agentmemory (code2careerai/agentmemory)](https://github.com/code2careerai/agentmemory) chụp phiên tập hợp thành các hồ sơ được gõ, có thể tìm kiếm
